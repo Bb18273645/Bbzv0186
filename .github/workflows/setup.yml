@@ -143,6 +143,7 @@ jobs:
           git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🗂️ 首次建档 HTML+图片 (+${COUNT} 文件) [skip ci]"
+          git pull --rebase origin main || true
           git push
 
       - name: 开启 GitHub Pages
@@ -332,5 +333,6 @@ jobs:
           if git diff --cached --quiet; then echo "✅ 无新内容"; exit 0; fi
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "✅ 首次建档完成 (+${COUNT} 文件) [skip ci]"
+          git pull --rebase origin main || true
           git push
           echo "🔗 ${{ steps.info.outputs.pages_url }}"
