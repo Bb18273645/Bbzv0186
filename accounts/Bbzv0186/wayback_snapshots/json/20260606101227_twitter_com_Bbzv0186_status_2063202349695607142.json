@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2062506149711405350",
+    "created_at": "2026-06-06T10:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063202349695607142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1442834730072875008",
+          "start": 0,
+          "username": "crosswall8"
+        },
+        {
+          "end": 24,
+          "id": "1865995824775462912",
+          "start": 12,
+          "username": "king1818888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063202349695607142",
+    "in_reply_to_user_id": "1442834730072875008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062522476169740359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crosswall8 @king1818888 正在使用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2062506149711405350",
+        "created_at": "2026-06-06T10:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063202349695607142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1442834730072875008",
+              "start": 0,
+              "username": "crosswall8"
+            },
+            {
+              "end": 24,
+              "id": "1865995824775462912",
+              "start": 12,
+              "username": "king1818888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063202349695607142",
+        "in_reply_to_user_id": "1442834730072875008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062522476169740359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crosswall8 @king1818888 正在使用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442834730072875008",
+        "conversation_id": "2062506149711405350",
+        "created_at": "2026-06-04T13:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062522476169740359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865995824775462912",
+              "start": 0,
+              "username": "king1818888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062522476169740359",
+        "in_reply_to_user_id": "1865995824775462912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062506149711405350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@king1818888 😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31l年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 41,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T12:53:06.000Z",
+        "description": "CrossWall 官方账号\n专注高性能跨境链路优化，提供稳定、高速的全球网络加速方案。\n\n官网：https://t.co/9XiJxH0rmK\n社区：https://t.co/0FPsleTSa7 \n频道：https://t.co/QU4l4qSABN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "go.crosswall.org",
+                "end": 72,
+                "expanded_url": "https://go.crosswall.org/",
+                "start": 49,
+                "url": "https://t.co/9XiJxH0rmK"
+              },
+              {
+                "display_url": "t.me/crosswall_offi…",
+                "end": 99,
+                "expanded_url": "https://t.me/crosswall_official",
+                "start": 76,
+                "url": "https://t.co/0FPsleTSa7"
+              },
+              {
+                "display_url": "t.me/crosswall_chan…",
+                "end": 127,
+                "expanded_url": "https://t.me/crosswall_channel",
+                "start": 104,
+                "url": "https://t.co/QU4l4qSABN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crosswall.org",
+                "end": 23,
+                "expanded_url": "http://www.crosswall.org",
+                "start": 0,
+                "url": "https://t.co/CZFaLtKYne"
+              }
+            ]
+          }
+        },
+        "id": "1442834730072875008",
+        "name": "CrossWall 机场/VPN 官方",
+        "pinned_tweet_id": "2060316245749346605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060314067089416192/XPHJCfgb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 146,
+          "like_count": 207,
+          "listed_count": 6,
+          "media_count": 98,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/CZFaLtKYne",
+        "username": "crosswall8",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T05:44:17.000Z",
+        "description": "💡 墨尔本 | AI+Data 重度实验者\n\n🔥 金融小白 → 用数据和AI做投资的实践者  \n🧪 硬核AI工具拆解 · 真实踩坑记录  \n📈 AI驱动的投资决策 | 科技生活分享\n\n🤖 AI Build in my journey ✨",
+        "id": "1865995824775462912",
+        "location": "Melbourne, Victoria",
+        "name": "Kimberly",
+        "pinned_tweet_id": "2062477275313160267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050829855701487616/cMQeXTZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 432,
+          "like_count": 18922,
+          "listed_count": 15,
+          "media_count": 306,
+          "tweet_count": 9953
+        },
+        "username": "king1818888",
+        "verified": true
+      }
+    ]
+  }
+}

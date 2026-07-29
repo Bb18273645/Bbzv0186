@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2060228305815810161",
+    "created_at": "2026-05-29T05:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060237650150449534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747180238810021888",
+          "start": 0,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060237650150449534",
+    "in_reply_to_user_id": "1747180238810021888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060228305815810161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwj23355 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2060228305815810161",
+        "created_at": "2026-05-29T05:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060237650150449534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747180238810021888",
+              "start": 0,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060237650150449534",
+        "in_reply_to_user_id": "1747180238810021888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060228305815810161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwj23355 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060228304775643136"
+          ]
+        },
+        "author_id": "1747180238810021888",
+        "conversation_id": "2060228305815810161",
+        "created_at": "2026-05-29T05:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060228305815810161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060228305815810161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父母貌似同意我自杀了\n今晚要不要跳呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf()｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 440,
+          "like_count": 2423,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 906
+        },
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

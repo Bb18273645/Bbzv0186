@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077962578760970240"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "conversation_id": "2077962592199508276",
+    "created_at": "2026-07-17T03:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077962592199508276"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zp6akRGD7y",
+          "end": 50,
+          "expanded_url": "https://x.com/Bbzv0186/status/2077962592199508276/photo/1",
+          "media_key": "3_2077962578760970240",
+          "start": 27,
+          "url": "https://t.co/zp6akRGD7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077962592199508276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/zp6akRGD7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2077962578760970240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZn9LOaMAA9wx2.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077962578760970240"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "conversation_id": "2077962592199508276",
+        "created_at": "2026-07-17T03:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077962592199508276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zp6akRGD7y",
+              "end": 50,
+              "expanded_url": "https://x.com/Bbzv0186/status/2077962592199508276/photo/1",
+              "media_key": "3_2077962578760970240",
+              "start": 27,
+              "url": "https://t.co/zp6akRGD7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077962592199508276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/zp6akRGD7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 81,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      }
+    ]
+  }
+}

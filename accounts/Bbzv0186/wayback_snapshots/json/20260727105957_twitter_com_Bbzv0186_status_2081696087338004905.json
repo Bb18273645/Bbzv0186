@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081696084339093504"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "conversation_id": "2081696087338004905",
+    "created_at": "2026-07-27T10:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081696087338004905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w0BxBe2uPe",
+          "end": 41,
+          "expanded_url": "https://x.com/Bbzv0186/status/2081696087338004905/photo/1",
+          "media_key": "3_2081696084339093504",
+          "start": 18,
+          "url": "https://t.co/w0BxBe2uPe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081696087338004905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "印度直邮靠谱吗？\n有买过的姐妹吗？ https://t.co/w0BxBe2uPe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081696084339093504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOrjzVacAAwp90.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081696084339093504"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "conversation_id": "2081696087338004905",
+        "created_at": "2026-07-27T10:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081696087338004905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0BxBe2uPe",
+              "end": 41,
+              "expanded_url": "https://x.com/Bbzv0186/status/2081696087338004905/photo/1",
+              "media_key": "3_2081696084339093504",
+              "start": 18,
+              "url": "https://t.co/w0BxBe2uPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696087338004905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "印度直邮靠谱吗？\n有买过的姐妹吗？ https://t.co/w0BxBe2uPe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 100,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      }
+    ]
+  }
+}

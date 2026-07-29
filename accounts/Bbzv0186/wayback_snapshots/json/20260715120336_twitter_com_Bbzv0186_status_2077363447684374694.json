@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2076722587263250690",
+    "created_at": "2026-07-15T12:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077363447684374694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076670672517189632",
+          "start": 0,
+          "username": "mikumi_huihui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077363447684374694",
+    "in_reply_to_user_id": "2076670672517189632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076722587263250690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikumi_huihui 喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2076722587263250690",
+        "created_at": "2026-07-15T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077363447684374694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076670672517189632",
+              "start": 0,
+              "username": "mikumi_huihui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077363447684374694",
+        "in_reply_to_user_id": "2076670672517189632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076722587263250690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumi_huihui 喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076670672517189632",
+        "conversation_id": "2076722587263250690",
+        "created_at": "2026-07-13T17:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076722587263250690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076722587263250690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是每个药娘都会喵喵叫？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 80,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "前世互关寻回\n21｜心理委员｜依存症｜mtf｜xyn｜二次元｜特别黏人｜我会哭｜特别害羞｜喜欢雌爆发情｜重抑｜同类互fo",
+        "id": "2076670672517189632",
+        "name": "惠惠2.0🏳️‍⚧️🍥（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076671323452137472/67hXnG9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 100,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "mikumi_huihui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2069336716062884159",
+    "created_at": "2026-06-23T11:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069375860927353010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069375860927353010",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069336716062884159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 看看你的喵~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1498,
+        "media_key": "3_2069336713701593088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfCxvzbkAAByhK.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2069336716062884159",
+        "created_at": "2026-06-23T11:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069375860927353010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069375860927353010",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069336716062884159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 看看你的喵~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069336713701593088"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2069336716062884159",
+        "created_at": "2026-06-23T08:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069336716062884159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdyQzKPr0n",
+              "end": 53,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2069336716062884159/photo/1",
+              "media_key": "3_2069336713701593088",
+              "start": 30,
+              "url": "https://t.co/gdyQzKPr0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069336716062884159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我們打出生起就被別人看光光了，所以現在被看光光很正常😘 https://t.co/gdyQzKPr0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIvnyn"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 56,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/QcRPwIvnyn",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁\n請多多關心我......好累......\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQWVq1"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1642,
+          "like_count": 3100,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/bbrOTQWVq1",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2060694147040985579",
+    "created_at": "2026-05-30T12:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060695288218632613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892789733287460864",
+          "start": 0,
+          "username": "XIAOSUSU456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060695288218632613",
+    "in_reply_to_user_id": "1892789733287460864",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060694147040985579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOSUSU456 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2060694132646092800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkOZUcaIAAv6GW.jpg",
+        "width": 959
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060694133002711040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkOZVxbsAAhrPq.jpg",
+        "width": 419
+      },
+      {
+        "duration_ms": 8009,
+        "height": 480,
+        "media_key": "7_2060694133334056961",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060694133334056961/pu/img/JaAm5fpasKrknAZi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060694133334056961/pu/vid/avc1/480x270/4iPZtA7BpHjH8VxX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060694133334056961/pu/vid/avc1/642x360/doD7YjI9aitV2f6_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060694133334056961/pu/vid/avc1/856x480/oRCqilsmtaWqJsGC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060694133334056961/pu/pl/X9ITEpu2KqBuWOtw.m3u8?tag=12"
+          }
+        ],
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2060694147040985579",
+        "created_at": "2026-05-30T12:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060695288218632613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060695288218632613",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060694147040985579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060694132646092800",
+            "3_2060694133002711040",
+            "7_2060694133334056961"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "conversation_id": "2060694147040985579",
+        "created_at": "2026-05-30T12:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060694147040985579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDbDdule5E",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060694147040985579/video/1",
+              "media_key": "3_2060694132646092800",
+              "start": 7,
+              "url": "https://t.co/DDbDdule5E"
+            },
+            {
+              "display_url": "pic.x.com/DDbDdule5E",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060694147040985579/video/1",
+              "media_key": "3_2060694133002711040",
+              "start": 7,
+              "url": "https://t.co/DDbDdule5E"
+            },
+            {
+              "display_url": "pic.x.com/DDbDdule5E",
+              "end": 30,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060694147040985579/video/1",
+              "media_key": "7_2060694133334056961",
+              "start": 7,
+              "url": "https://t.co/DDbDdule5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060694147040985579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去这么强啊 https://t.co/DDbDdule5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 95,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

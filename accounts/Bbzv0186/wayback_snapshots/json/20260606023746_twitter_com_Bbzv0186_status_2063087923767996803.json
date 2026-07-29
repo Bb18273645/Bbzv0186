@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2062424927719014526",
+    "created_at": "2026-06-06T02:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063087923767996803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426614422546518017",
+          "start": 0,
+          "username": "rabbit_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063087923767996803",
+    "in_reply_to_user_id": "1426614422546518017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062424927719014526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbit_2333 好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062424921574404096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ80ifpa8AA2ky1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2062424927719014526",
+        "created_at": "2026-06-06T02:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063087923767996803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426614422546518017",
+              "start": 0,
+              "username": "rabbit_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063087923767996803",
+        "in_reply_to_user_id": "1426614422546518017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062424927719014526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbit_2333 好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062424921574404096"
+          ]
+        },
+        "author_id": "1426614422546518017",
+        "conversation_id": "2062424927719014526",
+        "created_at": "2026-06-04T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062424927719014526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCnoUkudXX",
+              "end": 47,
+              "expanded_url": "https://x.com/rabbit_2333/status/2062424927719014526/photo/1",
+              "media_key": "3_2062424921574404096",
+              "start": 24,
+              "url": "https://t.co/ZCnoUkudXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062424927719014526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 38209,
+          "like_count": 472,
+          "quote_count": 13,
+          "reply_count": 45,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 不要紫砂 死了也会被劳保家长拉去配阴婚 https://t.co/ZCnoUkudXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31l年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T18:39:34.000Z",
+        "description": "A normal rabbit, nothing special",
+        "id": "1426614422546518017",
+        "name": "rabbit",
+        "pinned_tweet_id": "1737892653143064904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567977506367770625/-b5Hbkjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 187,
+          "like_count": 522,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 385
+        },
+        "username": "rabbit_2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080275983605932033"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "conversation_id": "2078051234213183885",
+    "created_at": "2026-07-23T12:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080275996226576498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720057266035101696",
+          "start": 0,
+          "username": "GrayNoteLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qNy9hoP10J",
+          "end": 36,
+          "expanded_url": "https://x.com/Bbzv0186/status/2080275996226576498/photo/1",
+          "media_key": "3_2080275983605932033",
+          "start": 13,
+          "url": "https://t.co/qNy9hoP10J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080275996226576498",
+    "in_reply_to_user_id": "1720057266035101696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078051234213183885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrayNoteLab https://t.co/qNy9hoP10J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2080275983605932033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6f_D2boAEH0jW.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080275983605932033"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "conversation_id": "2078051234213183885",
+        "created_at": "2026-07-23T12:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080275996226576498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720057266035101696",
+              "start": 0,
+              "username": "GrayNoteLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNy9hoP10J",
+              "end": 36,
+              "expanded_url": "https://x.com/Bbzv0186/status/2080275996226576498/photo/1",
+              "media_key": "3_2080275983605932033",
+              "start": 13,
+              "url": "https://t.co/qNy9hoP10J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080275996226576498",
+        "in_reply_to_user_id": "1720057266035101696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078051234213183885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrayNoteLab https://t.co/qNy9hoP10J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720057266035101696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2078051234213183885",
+        "created_at": "2026-07-17T09:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078051234213183885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078051234213183885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "分享一组日本双女主JK女生提示词🥳🥳\n\n喜欢Jk的有福了，双倍快乐🤓\n\n大家可以根据自己想要的修改提示词嘿嘿\n\n记得回来交作业哦～～\n\n提示词prompt：真实摄影，超写实摄影，9:16竖版，日本高端时尚杂志 Editorial 摄影，电影级自然人像摄影，高级生活方式大片，原创构图\n\n两位22-25岁的成年亚洲女生，真实成年人，五官精致自然，皮肤白皙细腻，带有自然透明感，轻微粉嫩肤色，真实皮肤纹理，没有网红脸，没有动漫感，没有AI塑料皮\n\n第一位女生：黑色柔顺长发，轻薄空气刘海，眼睛圆润清澈，笑容温柔自然，气质甜美\n\n第二位女生：深栗色长发，自然大波浪微卷，侧分刘海，气质成熟温柔，眼神柔和自信\n\n服装：现代日本学院风时尚穿搭，纯白修身衬衫，自然卷起袖口，深灰细条纹领带，黑色高腰百褶短裙，黑色轻透连裤袜，黑色乐福鞋，整体更加偏向日本时尚杂志穿搭，而不是校园制服\n\n场景：东京郊外大型城市公园，宽阔翠绿色草坪，高大的榉树与银杏树形成自然树荫，远处盛开的白色小花，蒲公英随风飘散，柔软长草轻轻摇曳，背景拥有层层树木虚化，远方隐约可见湖面反光，空气干净透明，整个环境安静、自然、充满夏日傍晚的氛围\n\n镜头设计：采用20mm超广角镜头，摄影机距离人物极近，轻微低机位，两位女生自然朝镜头缓缓走来，第一位女生自然向镜头伸出右手，动作轻松放松，像邀请摄影师一起漫步草坪，第二位女生轻轻跟在身旁，同样自然伸出左手，身体微微前倾，与第一位形成流畅互动，双手位于画面最前景，形成明显广角透视，人物脸部保持自然比例，画面拥有极强空间纵深，两位女生身体轻轻靠近，肩膀自然接触，步伐同步，动作更像真实抓拍，而不是摆拍，两人同时望向镜头，眼神自然、自信、温柔，笑容轻松真实，整体充满青春活力与电影故事感\n\n光影设计（重点）：时间设定为 Golden Hour（日落前20分钟），太阳位于人物身后偏侧方，采用电影级逆光摄影，夕阳穿过树叶形成大量柔和光斑，人物整体采用自然逆光，发丝被夕阳勾勒出细腻金色轮廓光（Golden Rim Light），肩膀、手臂、裙摆边缘形成柔和暖金色轮廓光，人物脸部接受少量天空漫反射补光，肤色干净通透，树叶缝隙形成自然丁达尔光束（God Rays），空气中漂浮微小花粉与尘埃，整个空间充满电影级体积光\n\n构图：人物约占画面70%，前景采用虚化长草、小白花、蒲公英形成层次，中景为两位女生，背景是夕阳、公园树林与柔和散景，画面拥有丰富纵深，广角强化空间感，具有沉浸式第一视角\n\n摄影风格：日本时尚杂志，LARME，ViVi，Ray，电影摄影，Editorial Photography，生活方式摄影，Kodak Portra 400，Fuji Pro 400H，高级广告大片，真实抓拍，自然旅行摄影\n\n色彩：暖金色夕阳，奶白色高光，绿色草坪，浅金色轮廓光，黑白经典服饰，低饱和，胶片色彩，真实肤色，空气通透\n\n画质：Ultra Photorealistic，Masterpiece，8K，HDR，真实皮肤纹理，真实布料褶皱，真实丝袜质感，真实草叶细节，真实光线传播，真实镜头眩光，真实体积光，自然浅景深，电影级虚化，极致细节\n\nNegative Prompt：动漫、二次元、CG、AI感、塑料皮、过度磨皮、夸张姿势、色情、暴露、低俗、肢体错误、手指错误、多人重复、文字、水印、Logo、低清晰度。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 54514,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享一组日本双女主JK女生提示词🥳🥳\n\n喜欢Jk的有福了，双倍快乐🤓\n\n大家可以根据自己想要的修改提示词嘿嘿\n\n记得回来交作业哦～～\n\n提示词prompt：真实摄影，超写实摄影，9:16竖版，日本高端时尚杂志 Editorial 摄影，电影级自然人像摄影，高级生活方式大片，原创构图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 88,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T12:36:43.000Z",
+        "description": "记录AI、科技、平台规则与海外信息差。",
+        "id": "1720057266035101696",
+        "location": "TAIWAN",
+        "name": "灰度笔记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058970911324426240/jJpA2OhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 1043,
+          "like_count": 3667,
+          "listed_count": 48,
+          "media_count": 147,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "GrayNoteLab",
+        "verified": true
+      }
+    ]
+  }
+}

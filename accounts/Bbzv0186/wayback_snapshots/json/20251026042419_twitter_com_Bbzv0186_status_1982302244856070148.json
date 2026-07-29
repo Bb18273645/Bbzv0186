@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "1970768133003894880",
+    "created_at": "2025-10-26T04:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T05:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982302244856070148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647769860",
+          "start": 0,
+          "username": "Salvadoreimani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982302244856070148",
+    "in_reply_to_user_id": "1647769860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970768133003894880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Salvadoreimani 图一那个女是谁？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970768111738740736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mTJ_La4AAjP6p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 300,
+        "media_key": "16_1970768117715619840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G1mTKVca0AAMUPV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G1mTKVca0AAMUPV.mp4"
+          }
+        ],
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "1970768133003894880",
+        "created_at": "2025-10-26T04:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982302244856070148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647769860",
+              "start": 0,
+              "username": "Salvadoreimani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982302244856070148",
+        "in_reply_to_user_id": "1647769860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970768133003894880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Salvadoreimani 图一那个女是谁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970768111738740736",
+            "16_1970768117715619840"
+          ]
+        },
+        "author_id": "1647769860",
+        "conversation_id": "1970768133003894880",
+        "created_at": "2025-09-24T08:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970768133003894880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFWeoeWzOa",
+              "end": 143,
+              "expanded_url": "https://x.com/Salvadoreimani/status/1970768133003894880/photo/1",
+              "media_key": "3_1970768111738740736",
+              "start": 120,
+              "url": "https://t.co/BFWeoeWzOa"
+            },
+            {
+              "display_url": "pic.x.com/BFWeoeWzOa",
+              "end": 143,
+              "expanded_url": "https://x.com/Salvadoreimani/status/1970768133003894880/photo/1",
+              "media_key": "16_1970768117715619840",
+              "start": 120,
+              "url": "https://t.co/BFWeoeWzOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970768133003894880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😁 🫠 👐 justRoomate，Jvdi璃奈酱，可馨儿，Saya_，牛奶，女优毒龙，回魂，舌头白眼，美乳， 鲁艺凡， 18r\n糖心 破 解 版 . 香蕉视频 西瓜娱乐\n逼哩逼哩: 糖心vlog破解版 . 破解版\n禁漫天堂🧊 抖阴破解版 https://t.co/BFWeoeWzOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "",
+        "id": "1945767299912511488",
+        "name": "Zv Bb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945767416656744448/7JjCWCGA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-05T13:25:30.000Z",
+        "description": "精品破解软件【https://t.co/TQ8vQm3bZm】←点击打开.软件库里面有黄游戏，雏鸟，50度灰,汤头条，小蓝视频，GTV， 番茄社区,快等热门破解版软件",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wws.hp34.xyz",
+                "end": 30,
+                "expanded_url": "http://wws.hp34.xyz/",
+                "start": 7,
+                "url": "https://t.co/TQ8vQm3bZm"
+              }
+            ]
+          }
+        },
+        "id": "1647769860",
+        "location": "Maywood Park, OR",
+        "name": "里番网址 里番网站 里番动漫 精东传媒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855819138075090944/KHhuXBcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 20,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 166
+        },
+        "username": "Salvadoreimani",
+        "verified": false
+      }
+    ]
+  }
+}

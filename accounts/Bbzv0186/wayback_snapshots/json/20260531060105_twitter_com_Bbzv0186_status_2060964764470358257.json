@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2060705192384102529",
+    "created_at": "2026-05-31T06:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060964764470358257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060964764470358257",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060705192384102529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 不要走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2060705192384102529",
+        "created_at": "2026-05-31T06:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060964764470358257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060964764470358257",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060705192384102529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 不要走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2060705192384102529",
+        "created_at": "2026-05-30T12:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060705192384102529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060705192384102529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1030,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好缺爱，好焦虑，好痛苦，好想离开，烧炭是不是就好了，可以去到自己想去往的世界 家里还有思诺思和右佐匹，可以走的没痛苦…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦｜一个什么都不擅长的废物呜｜日常孤独缺爱ing｜喜欢一切可爱的东西｜生日2008｜mtx🏳️‍⚧️｜小证偷吃｜entp-t｜hrt 3.29 ｜欢迎互fo喵！｜🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 349,
+          "like_count": 2435,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 2201
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

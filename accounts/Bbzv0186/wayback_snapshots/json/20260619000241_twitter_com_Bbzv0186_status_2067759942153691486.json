@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2067558330072199547",
+    "created_at": "2026-06-19T00:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067759942153691486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        },
+        {
+          "end": 21,
+          "id": "2057080492118466560",
+          "start": 14,
+          "username": "xtwdvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067759942153691486",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067608231841837212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw @xtwdvx 我也是广西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2067558330072199547",
+        "created_at": "2026-06-19T00:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067759942153691486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            },
+            {
+              "end": 21,
+              "id": "2057080492118466560",
+              "start": 14,
+              "username": "xtwdvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067759942153691486",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067608231841837212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw @xtwdvx 我也是广西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977200375766958082",
+        "conversation_id": "2067558330072199547",
+        "created_at": "2026-06-18T13:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067608231841837212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2057080492118466560",
+              "start": 0,
+              "username": "xtwdvx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2067608231841837212",
+        "in_reply_to_user_id": "2057080492118466560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067602301867770021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtwdvx 广西老表yn hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31l年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 46,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn喵  155cm/44.5kg  初二\n(为什么没有人和我互fo呢)\n15歲年齡党+空气人属性\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超超超级社恐😩\n产地：桂C \n生产日期：2011.06.15 保质期不详      求灌注🥺→←(卑微)",
+        "id": "1977200375766958082",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️(中考加油😰)",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 204,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T12:47:23.000Z",
+        "description": "生产日期:2011 3 25 身高:164cm 体重:43kg  xyn一只 mtf:2026.1.29",
+        "id": "2057080492118466560",
+        "name": "布吉岛🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057082618445758464/2ebGmqgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 54,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "xtwdvx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074406655933157376"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "conversation_id": "2074406729803329592",
+    "created_at": "2026-07-07T08:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074406729803329592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l4RzRbNFzC",
+          "end": 43,
+          "expanded_url": "https://x.com/Bbzv0186/status/2074406729803329592/photo/1",
+          "media_key": "3_2074406655933157376",
+          "start": 20,
+          "url": "https://t.co/l4RzRbNFzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074406729803329592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去查激素(为什么雄激素还没降下来) https://t.co/l4RzRbNFzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074406655933157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnF3OaaEAA6elz.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074406655933157376"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "conversation_id": "2074406729803329592",
+        "created_at": "2026-07-07T08:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074406729803329592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4RzRbNFzC",
+              "end": 43,
+              "expanded_url": "https://x.com/Bbzv0186/status/2074406729803329592/photo/1",
+              "media_key": "3_2074406655933157376",
+              "start": 20,
+              "url": "https://t.co/l4RzRbNFzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074406729803329592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去查激素(为什么雄激素还没降下来) https://t.co/l4RzRbNFzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 67,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      }
+    ]
+  }
+}

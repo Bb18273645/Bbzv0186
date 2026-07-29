@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2070350061645730187",
+    "created_at": "2026-06-28T06:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071111885622235630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944413509401640960",
+          "start": 0,
+          "username": "Grinin_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071111885622235630",
+    "in_reply_to_user_id": "1944413509401640960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070350061645730187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grinin_mark 喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2070350061645730187",
+        "created_at": "2026-06-28T06:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071111885622235630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944413509401640960",
+              "start": 0,
+              "username": "Grinin_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071111885622235630",
+        "in_reply_to_user_id": "1944413509401640960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070350061645730187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grinin_mark 喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944413509401640960",
+        "conversation_id": "2070350061645730187",
+        "created_at": "2026-06-26T03:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070350061645730187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+aIoNeZz4IZ8wY…",
+              "end": 137,
+              "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2070349668119457792/RSNAsQmf?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070349668119457792/RSNAsQmf?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+              "url": "https://t.co/H4yDGQtxrX"
+            },
+            {
+              "description": "这里是丰川药业官方群组。🌸 商品发布频道链接：https://t.me/TogawaMedical_Chanel 目前提供: 🍥自制改良款凝胶 🍥零售/整盒色普龙(CPA/土色) 🍥零售/整盒富士日雌 💊自制普瑞巴林胶囊 💊rc及其他药物 产品图等更多内容具体详见: https://doc.togawamedical.top 若有任何疑惑，我处诚挚期待您的垂询。",
+              "display_url": "t.me/+peUwiv48eVkxM…",
+              "end": 161,
+              "expanded_url": "https://t.me/+peUwiv48eVkxMzM0",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2070347401211314176/LzX1UDIA?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070347401211314176/LzX1UDIA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "丰川家🍥",
+              "unwound_url": "https://t.me/+peUwiv48eVkxMzM0",
+              "url": "https://t.co/tBL9r8uOcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070350061645730187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3922,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "随便发个抽奖 以下是奖品: \n1.沉世x1 \n2. 4ho x1 \n3.国补一盒 \n抽奖在7.1 1:00结算出结果哦 期待中奖人呢，本次联系不上者会将奖品重新抽取 参与方式依旧是关注+转发+喜欢+评论喵! 另外欢迎加入群组  https://t.co/H4yDGQtxrX https://t.co/tBL9r8uOcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:08:18.000Z",
+        "description": "|| 某年从炸柜党进化成家长党 || INFP-T || 免费闲聊 || 好无聊 || hrt2023.8.3 || ❤️@LiciiQAQ ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1944413509401640960",
+        "location": "江苏省 无锡",
+        "name": "Grin🍥",
+        "pinned_tweet_id": "2057100187781505287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955240735504207874/sPFWd7-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 134,
+          "like_count": 5538,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "Grinin_mark",
+        "verified": true
+      }
+    ]
+  }
+}

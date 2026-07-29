@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2068599557173510265",
+    "created_at": "2026-06-21T08:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068610190409376212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068610190409376212",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068599557173510265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 小梓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068599541029650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUkUpmbwAAwovs.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068599541100933120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUkUp3bcAADq6h.jpg",
+        "width": 1514
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068599543764221952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUkUzyaAAAWJ1A.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068599544225681408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUkU1gbUAATpW0.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2068599557173510265",
+        "created_at": "2026-06-21T08:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068610190409376212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068610190409376212",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068599557173510265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 小梓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068599541029650432",
+            "3_2068599541100933120",
+            "3_2068599543764221952",
+            "3_2068599544225681408"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2068599557173510265",
+        "created_at": "2026-06-21T07:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068599557173510265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/feeBpeC9sL",
+              "end": 54,
+              "expanded_url": "https://x.com/LanziiLove/status/2068599557173510265/photo/1",
+              "media_key": "3_2068599541029650432",
+              "start": 31,
+              "url": "https://t.co/feeBpeC9sL"
+            },
+            {
+              "display_url": "pic.x.com/feeBpeC9sL",
+              "end": 54,
+              "expanded_url": "https://x.com/LanziiLove/status/2068599557173510265/photo/1",
+              "media_key": "3_2068599541100933120",
+              "start": 31,
+              "url": "https://t.co/feeBpeC9sL"
+            },
+            {
+              "display_url": "pic.x.com/feeBpeC9sL",
+              "end": 54,
+              "expanded_url": "https://x.com/LanziiLove/status/2068599557173510265/photo/1",
+              "media_key": "3_2068599543764221952",
+              "start": 31,
+              "url": "https://t.co/feeBpeC9sL"
+            },
+            {
+              "display_url": "pic.x.com/feeBpeC9sL",
+              "end": 54,
+              "expanded_url": "https://x.com/LanziiLove/status/2068599557173510265/photo/1",
+              "media_key": "3_2068599544225681408",
+              "start": 31,
+              "url": "https://t.co/feeBpeC9sL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068599557173510265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 810,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天翻相册才想起来本老阿姨以前居然还拍过此等照片\n\n善哉善哉 https://t.co/feeBpeC9sL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31l年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIvnyn"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 47,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/QcRPwIvnyn",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 本名杜澄溪 💕平时会发各种各样的日常～高P 没有任何盈利内容 所以不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25711,
+          "following_count": 1277,
+          "like_count": 3215,
+          "listed_count": 79,
+          "media_count": 450,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

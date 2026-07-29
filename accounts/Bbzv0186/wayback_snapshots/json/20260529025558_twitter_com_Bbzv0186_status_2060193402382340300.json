@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2060080100595642613",
+    "created_at": "2026-05-29T02:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060193402382340300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1941079522490953728",
+          "start": 0,
+          "username": "xvliowo"
+        },
+        {
+          "end": 24,
+          "id": "2024884948625408000",
+          "start": 9,
+          "username": "BestWarma74425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060193402382340300",
+    "in_reply_to_user_id": "1941079522490953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060080100595642613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvliowo @BestWarma74425 再见了，晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2060080100595642613",
+        "created_at": "2026-05-29T02:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060193402382340300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            },
+            {
+              "end": 24,
+              "id": "2024884948625408000",
+              "start": 9,
+              "username": "BestWarma74425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060193402382340300",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060080100595642613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo @BestWarma74425 再见了，晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2060080100595642613",
+        "created_at": "2026-05-28T19:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060080100595642613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "2024884948625408000",
+              "start": 80,
+              "username": "BestWarma74425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060080100595642613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3252,
+          "like_count": 60,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "感谢各位的留言，遗憾的是并没有奇迹发生，在我们发现原号主最后一条帖子后于当天凌晨报警，在第二天下午于地下室找到遗体\n\n原号主在离开前一晚将所有的账号信息转交给了@BestWarma74425，目前还没想好接下来该怎么处理这些账号\n\n最后，感谢每一位关心着羽羽的朋友们\n\n晚安璃羽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……\n是超乖的小孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056320204519723008/GNmqp3b1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 628,
+          "like_count": 1474,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T16:32:58.000Z",
+        "description": "",
+        "id": "2024884948625408000",
+        "name": "H₂O",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024886279624949763/wce6F8Au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 3,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "BestWarma74425",
+        "verified": false
+      }
+    ]
+  }
+}

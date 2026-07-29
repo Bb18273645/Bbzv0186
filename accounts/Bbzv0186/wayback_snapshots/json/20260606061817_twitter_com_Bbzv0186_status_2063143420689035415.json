@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063143413281943552"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063133659419582478",
+    "created_at": "2026-06-06T06:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063143420689035415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892789733287460864",
+          "start": 0,
+          "username": "XIAOSUSU456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YbKqmXvE6O",
+          "end": 36,
+          "expanded_url": "https://x.com/Bbzv0186/status/2063143420689035415/photo/1",
+          "media_key": "3_2063143413281943552",
+          "start": 13,
+          "url": "https://t.co/YbKqmXvE6O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063143420689035415",
+    "in_reply_to_user_id": "1892789733287460864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063133659419582478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOSUSU456 https://t.co/YbKqmXvE6O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 177,
+        "media_key": "3_2063143413281943552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHCAN1bcAA26Pj.jpg",
+        "width": 462
+      },
+      {
+        "duration_ms": 13233,
+        "height": 1278,
+        "media_key": "7_2063133636623523840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063133636623523840/pu/img/xUlDU1JfdVn3ZdxV.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063133636623523840/pu/vid/avc1/320x702/skeSmRs1uS_NI9uU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063133636623523840/pu/vid/avc1/480x1054/vQ_1oRQMvd6VD-yQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063133636623523840/pu/vid/avc1/582x1278/ogZ0N9zewUAmgsNi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063133636623523840/pu/pl/ZDhEyBce78NDL354.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063133637495914497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG5HMMagAENXTi.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063143413281943552"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063133659419582478",
+        "created_at": "2026-06-06T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063143420689035415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbKqmXvE6O",
+              "end": 36,
+              "expanded_url": "https://x.com/Bbzv0186/status/2063143420689035415/photo/1",
+              "media_key": "3_2063143413281943552",
+              "start": 13,
+              "url": "https://t.co/YbKqmXvE6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063143420689035415",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063133659419582478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 https://t.co/YbKqmXvE6O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063133636623523840",
+            "3_2063133637495914497"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "conversation_id": "2063133659419582478",
+        "created_at": "2026-06-06T05:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063133659419582478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🌸 MTF World V3.0 正式版 ── 专业的跨性别女性 HRT 随身蜕变管理终端。集成 📈 激素历史曲线、💊 用药智能打卡与低库存报警、📊 身体进化感知雷达、以及 🛡️ 100% 本地隐私物理沙箱防护。",
+              "display_url": "mtf-world.com",
+              "end": 74,
+              "expanded_url": "http://mtf-world.com",
+              "start": 51,
+              "status": 200,
+              "title": "MTF World",
+              "unwound_url": "https://mtf-world.com/",
+              "url": "https://t.co/G973WxerOJ"
+            },
+            {
+              "display_url": "pic.x.com/0R42zTlT9k",
+              "end": 119,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2063133659419582478/video/1",
+              "media_key": "7_2063133636623523840",
+              "start": 96,
+              "url": "https://t.co/0R42zTlT9k"
+            },
+            {
+              "display_url": "pic.x.com/0R42zTlT9k",
+              "end": 119,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2063133659419582478/video/1",
+              "media_key": "3_2063133637495914497",
+              "start": 96,
+              "url": "https://t.co/0R42zTlT9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063133659419582478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF世界V3.5 姐妹聚会日版本发布！这是我们第一个可以承受大规模聊天的版本(已测试)\n进入新世界:https://t.co/G973WxerOJ\n可从右上角点击进入姐妹世界即可开始聊天！ https://t.co/0R42zTlT9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31l年龄党/Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 36,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060953077486858240/uae6848X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 91,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2069060441700278647",
+    "created_at": "2026-06-22T15:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069075417055531204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsksyrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069075417055531204",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069060441700278647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsksyrx 加油喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2069060441700278647",
+        "created_at": "2026-06-22T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069075417055531204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsksyrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069075417055531204",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069060441700278647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsksyrx 加油喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2069060441700278647",
+        "created_at": "2026-06-22T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069060441700278647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069060441700278647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧还是得断一段时间糖🥺\n妈妈说和爸爸商量了一下，要再带我去做一次检查，确定是易性症的话就去做冻精，然后就同意我开始HRT ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIvnyn"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 50,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/QcRPwIvnyn",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜DIY HRT2026.5.10｜已出柜｜家长党？｜\n生日2009.10｜高一｜175/61｜重庆&苏州｜She/Her｜\nINFP-T｜二次元  音游  百合  术力口｜友所有人｜\n抑焦｜不od 不见证 不抽烟喝酒｜\n同类互fo（不主动回空号／可以私信要｜\n欢迎私信和要咱的QQ ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 617,
+          "like_count": 4379,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx",
+        "verified": true
+      }
+    ]
+  }
+}

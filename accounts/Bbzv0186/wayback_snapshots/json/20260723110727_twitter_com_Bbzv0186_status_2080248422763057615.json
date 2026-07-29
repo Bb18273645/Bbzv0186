@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2080122676295901596",
+    "created_at": "2026-07-23T11:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080248422763057615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079365089334112256",
+          "start": 0,
+          "username": "Kiyoshiaufzju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080248422763057615",
+    "in_reply_to_user_id": "2079365089334112256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080122676295901596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyoshiaufzju ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2080122673015996416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4UjNZawAAfmuQ.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2080122676295901596",
+        "created_at": "2026-07-23T11:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080248422763057615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079365089334112256",
+              "start": 0,
+              "username": "Kiyoshiaufzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080248422763057615",
+        "in_reply_to_user_id": "2079365089334112256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080122676295901596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiaufzju ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080122673015996416"
+          ]
+        },
+        "author_id": "2079365089334112256",
+        "conversation_id": "2080122676295901596",
+        "created_at": "2026-07-23T02:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080122676295901596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O74KlqgjuX",
+              "end": 158,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2080122676295901596/photo/1",
+              "media_key": "3_2080122673015996416",
+              "start": 135,
+              "url": "https://t.co/O74KlqgjuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080122676295901596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3116,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被关到襄阳宏安精神病医院一天后直接出院了    出院了发现我之前打的睾酮    我之前也想做一名男孩子   以前是FTM   但是后悔了 现在是MTF了   我要气死了  男性化特征太明显了    打了好久的睾酮    早知道我就不做FTM了    现在吃糖还来得及吗 https://t.co/O74KlqgjuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 88,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）（已怀孕）",
+        "pinned_tweet_id": "2080118696211792383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 108,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2079892653320323438",
+    "created_at": "2026-07-22T14:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079931223556940282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859514443362861056",
+          "start": 0,
+          "username": "nami16386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079931223556940282",
+    "in_reply_to_user_id": "1859514443362861056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079892653320323438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nami16386 抱抱，姐姐不要难过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_2079892487783751680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1DMqlaoAAwOk2.jpg",
+        "width": 1034
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2079892488089935872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1DMruaoAAHqfO.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2079892653320323438",
+        "created_at": "2026-07-22T14:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079931223556940282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859514443362861056",
+              "start": 0,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079931223556940282",
+        "in_reply_to_user_id": "1859514443362861056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079892653320323438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nami16386 抱抱，姐姐不要难过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079892487783751680",
+            "3_2079892488089935872"
+          ]
+        },
+        "author_id": "1859514443362861056",
+        "conversation_id": "2079892653320323438",
+        "created_at": "2026-07-22T11:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079892653320323438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J1G3lTIdg",
+              "end": 37,
+              "expanded_url": "https://x.com/nami16386/status/2079892653320323438/photo/1",
+              "media_key": "3_2079892487783751680",
+              "start": 14,
+              "url": "https://t.co/2J1G3lTIdg"
+            },
+            {
+              "display_url": "pic.x.com/2J1G3lTIdg",
+              "end": 37,
+              "expanded_url": "https://x.com/nami16386/status/2079892653320323438/photo/1",
+              "media_key": "3_2079892488089935872",
+              "start": 14,
+              "url": "https://t.co/2J1G3lTIdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079892653320323438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1993,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起…我死了是不是就好了 https://t.co/2J1G3lTIdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 86,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁🍥 | MTF \n身高168cm / 50kg  已炸柜  离家出走 不割手不od  重度焦虑 有时候笨笨的 \nHRT 2026.5.3\n梦想吃好吃的+玩电脑  喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nami16386",
+                "end": 23,
+                "expanded_url": "http://t.me/nami16386",
+                "start": 0,
+                "url": "https://t.co/QNHz2KyDXD"
+              }
+            ]
+          }
+        },
+        "id": "1859514443362861056",
+        "location": "湖北省黄冈市",
+        "name": "nami🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 573,
+          "like_count": 3505,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/QNHz2KyDXD",
+        "username": "nami16386",
+        "verified": false
+      }
+    ]
+  }
+}
