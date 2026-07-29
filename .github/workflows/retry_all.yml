@@ -1,11 +1,11 @@
-name: 鍏ㄩ噺閲嶈瘯
+name: 全量重试
 
 on:
   workflow_dispatch:
 
 jobs:
   retry-image:
-    name: 鍏ㄩ噺閲嶈瘯 鍥剧墖
+    name: 全量重试 图片
     runs-on: ubuntu-latest
     timeout-minutes: 360
     env:
@@ -14,11 +14,12 @@ jobs:
       contents: write
 
     steps:
-      - name: 妫€鍑轰粨搴?        uses: actions/checkout@v6
+      - name: 检出仓库
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 璇诲彇璐﹀彿鍒楄〃
+      - name: 读取账号列表
         id: info
         run: |
           REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
@@ -31,7 +32,8 @@ jobs:
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
           echo "EOF"           >> $GITHUB_OUTPUT
 
-      - name: 妫€鏌ユ暟鎹洰褰?        id: check
+      - name: 检查数据目录
+        id: check
         run: |
           SKIP=true
           while IFS= read -r U; do
@@ -42,13 +44,13 @@ jobs:
             fi
           done <<< "${{ steps.info.outputs.accounts }}"
           echo "skip=$SKIP" >> $GITHUB_OUTPUT
-          if [ "$SKIP" = "true" ]; then echo "鈿狅笍 璇峰厛杩愯棣栨寤烘。"; fi
+          if [ "$SKIP" = "true" ]; then echo "⚠️ 请先运行首次建档"; fi
 
-      - name: 瀹夎渚濊禆
+      - name: 安装依赖
         if: steps.check.outputs.skip == 'false'
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 鎷夊彇鏈€鏂?archive.py
+      - name: 拉取最新 archive.py
         if: steps.check.outputs.skip == 'false'
         run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
 
@@ -72,7 +74,8 @@ jobs:
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
-      - name: 鎺ㄩ€?        if: steps.check.outputs.skip == 'false'
+      - name: 推送
+        if: steps.check.outputs.skip == 'false'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -82,14 +85,14 @@ jobs:
             size=$(stat -c%s "$f" 2>/dev/null || echo 0)
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
-          git diff --cached --quiet && echo "鏃犳柊鍐呭" && exit 0
+          git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "馃攣 鍏ㄩ噺閲嶈瘯 鍥剧墖 (+${COUNT} 鏂囦欢) $(date -u +%Y-%m-%d) [skip ci]"
+          git commit -m "🔁 全量重试 图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
   retry-video:
-    name: 鍏ㄩ噺閲嶈瘯 瑙嗛
+    name: 全量重试 视频
     needs: retry-image
     runs-on: ubuntu-latest
     timeout-minutes: 360
@@ -99,13 +102,13 @@ jobs:
       contents: write
 
     steps:
-      - name: 妫€鍑轰粨搴擄紙鎷夋渶鏂帮級
+      - name: 检出仓库（拉最新）
         uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
 
-      - name: 璇诲彇璐﹀彿鍒楄〃
+      - name: 读取账号列表
         id: info
         run: |
           REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
@@ -118,10 +121,10 @@ jobs:
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
           echo "EOF"           >> $GITHUB_OUTPUT
 
-      - name: 瀹夎渚濊禆
+      - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 鎷夊彇鏈€鏂?archive.py
+      - name: 拉取最新 archive.py
         run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
 
       - name: retry --video-failed-all
@@ -142,7 +145,8 @@ jobs:
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
-      - name: 鎺ㄩ€?        run: |
+      - name: 推送
+        run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
@@ -151,14 +155,14 @@ jobs:
             size=$(stat -c%s "$f" 2>/dev/null || echo 0)
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
-          git diff --cached --quiet && echo "鏃犳柊鍐呭" && exit 0
+          git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "馃攣 鍏ㄩ噺閲嶈瘯 瑙嗛 (+${COUNT} 鏂囦欢) $(date -u +%Y-%m-%d) [skip ci]"
+          git commit -m "🔁 全量重试 视频 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
   retry-avatar:
-    name: 鍏ㄩ噺閲嶈瘯 澶村儚+鏀跺熬
+    name: 全量重试 头像+收尾
     needs: retry-video
     runs-on: ubuntu-latest
     timeout-minutes: 360
@@ -168,13 +172,13 @@ jobs:
       contents: write
 
     steps:
-      - name: 妫€鍑轰粨搴擄紙鎷夋渶鏂帮級
+      - name: 检出仓库（拉最新）
         uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
 
-      - name: 璇诲彇璐﹀彿鍒楄〃
+      - name: 读取账号列表
         id: info
         run: |
           REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
@@ -187,10 +191,10 @@ jobs:
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
           echo "EOF"           >> $GITHUB_OUTPUT
 
-      - name: 瀹夎渚濊禆
+      - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 鎷夊彇鏈€鏂?archive.py
+      - name: 拉取最新 archive.py
         run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
 
       - name: retry --avatar-failed-all
@@ -220,7 +224,8 @@ jobs:
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
-      - name: 鎺ㄩ€?        run: |
+      - name: 推送
+        run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
@@ -229,8 +234,8 @@ jobs:
             size=$(stat -c%s "$f" 2>/dev/null || echo 0)
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
-          if git diff --cached --quiet; then echo "鉁?鏃犳柊鍐呭"; exit 0; fi
+          if git diff --cached --quiet; then echo "✅ 无新内容"; exit 0; fi
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "鉁?鍏ㄩ噺閲嶈瘯瀹屾垚 (+${COUNT} 鏂囦欢) $(date -u +%Y-%m-%d) [skip ci]"
+          git commit -m "✅ 全量重试完成 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
