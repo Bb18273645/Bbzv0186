@@ -1,0 +1,236 @@
+name: 鍏ㄩ噺閲嶈瘯
+
+on:
+  workflow_dispatch:
+
+jobs:
+  retry-image:
+    name: 鍏ㄩ噺閲嶈瘯 鍥剧墖
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: 妫€鍑轰粨搴?        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 璇诲彇璐﹀彿鍒楄〃
+        id: info
+        run: |
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          if [ -f "accounts.txt" ]; then
+            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
+          else
+            ACCOUNTS="$REPO"
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+
+      - name: 妫€鏌ユ暟鎹洰褰?        id: check
+        run: |
+          SKIP=true
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ -d "accounts/${U}/wayback_snapshots" ]; then
+              SKIP=false
+              break
+            fi
+          done <<< "${{ steps.info.outputs.accounts }}"
+          echo "skip=$SKIP" >> $GITHUB_OUTPUT
+          if [ "$SKIP" = "true" ]; then echo "鈿狅笍 璇峰厛杩愯棣栨寤烘。"; fi
+
+      - name: 瀹夎渚濊禆
+        if: steps.check.outputs.skip == 'false'
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 鎷夊彇鏈€鏂?archive.py
+        if: steps.check.outputs.skip == 'false'
+        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+
+      - name: retry --image-failed-all
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py retry --image-failed-all || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: clean-html --force
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 鎺ㄩ€?        if: steps.check.outputs.skip == 'false'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --name-only | while IFS= read -r f; do
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
+          done
+          git diff --cached --quiet && echo "鏃犳柊鍐呭" && exit 0
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
+          git commit -m "馃攣 鍏ㄩ噺閲嶈瘯 鍥剧墖 (+${COUNT} 鏂囦欢) $(date -u +%Y-%m-%d) [skip ci]"
+          git push
+
+  retry-video:
+    name: 鍏ㄩ噺閲嶈瘯 瑙嗛
+    needs: retry-image
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: 妫€鍑轰粨搴擄紙鎷夋渶鏂帮級
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - name: 璇诲彇璐﹀彿鍒楄〃
+        id: info
+        run: |
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          if [ -f "accounts.txt" ]; then
+            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
+          else
+            ACCOUNTS="$REPO"
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+
+      - name: 瀹夎渚濊禆
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 鎷夊彇鏈€鏂?archive.py
+        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+
+      - name: retry --video-failed-all
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py retry --video-failed-all || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: clean-html --force
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 鎺ㄩ€?        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --name-only | while IFS= read -r f; do
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
+          done
+          git diff --cached --quiet && echo "鏃犳柊鍐呭" && exit 0
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
+          git commit -m "馃攣 鍏ㄩ噺閲嶈瘯 瑙嗛 (+${COUNT} 鏂囦欢) $(date -u +%Y-%m-%d) [skip ci]"
+          git push
+
+  retry-avatar:
+    name: 鍏ㄩ噺閲嶈瘯 澶村儚+鏀跺熬
+    needs: retry-video
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: 妫€鍑轰粨搴擄紙鎷夋渶鏂帮級
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - name: 璇诲彇璐﹀彿鍒楄〃
+        id: info
+        run: |
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          if [ -f "accounts.txt" ]; then
+            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
+          else
+            ACCOUNTS="$REPO"
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+
+      - name: 瀹夎渚濊禆
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 鎷夊彇鏈€鏂?archive.py
+        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+
+      - name: retry --avatar-failed-all
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py retry --avatar-failed-all || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: clean-html --force
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: build-index
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py build-index || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 鎺ㄩ€?        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --name-only | while IFS= read -r f; do
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
+          done
+          if git diff --cached --quiet; then echo "鉁?鏃犳柊鍐呭"; exit 0; fi
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
+          git commit -m "鉁?鍏ㄩ噺閲嶈瘯瀹屾垚 (+${COUNT} 鏂囦欢) $(date -u +%Y-%m-%d) [skip ci]"
+          git push
