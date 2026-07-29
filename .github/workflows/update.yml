@@ -1,14 +1,23 @@
 name: 增量更新
 
 on:
+  schedule:
+    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+
   workflow_dispatch:
     inputs:
       from_setup:
         description: '是否由首次建档链式触发（true 时跑完会触发全量重试）'
+  schedule:
+    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+
         required: false
         default: 'false'
       only_index:
         description: '仅重建索引（true 时跳过所有抓取，只跑 build-index，用于改完置顶/资料后快速生效）'
+  schedule:
+    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+
         required: false
         default: 'false'
 
@@ -17,6 +26,9 @@ jobs:
     name: 增量 HTML+图片
     if: github.event.inputs.only_index != 'true'
     runs-on: ubuntu-latest
+  schedule:
+    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+
     timeout-minutes: 360
     env:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
@@ -148,6 +160,9 @@ jobs:
     if: github.event.inputs.only_index != 'true'
     needs: update-html-image
     runs-on: ubuntu-latest
+  schedule:
+    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+
     timeout-minutes: 360
     env:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
@@ -232,6 +247,9 @@ jobs:
     needs: update-video
     if: always() && (github.event.inputs.only_index == 'true' || needs.update-video.result == 'success')
     runs-on: ubuntu-latest
+  schedule:
+    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+
     timeout-minutes: 360
     env:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
