@@ -3,21 +3,14 @@ name: 增量更新
 on:
   schedule:
     - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
-
   workflow_dispatch:
     inputs:
       from_setup:
         description: '是否由首次建档链式触发（true 时跑完会触发全量重试）'
-  schedule:
-    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
-
         required: false
         default: 'false'
       only_index:
         description: '仅重建索引（true 时跳过所有抓取，只跑 build-index，用于改完置顶/资料后快速生效）'
-  schedule:
-    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
-
         required: false
         default: 'false'
 
@@ -26,9 +19,6 @@ jobs:
     name: 增量 HTML+图片
     if: github.event.inputs.only_index != 'true'
     runs-on: ubuntu-latest
-  schedule:
-    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
-
     timeout-minutes: 360
     env:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
@@ -44,12 +34,9 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
-          # 扫描 accounts/ 目录，取所有含 wayback_snapshots 的子目录 = 真实账号列表
-          # 支持单账号 / 多账号 / 仓库名≠账号名；不依赖 accounts.txt
           ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
             [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
           done)
-          # 兜底：扫不到（首次建档前）则用仓库名
           if [ -z "$ACCOUNTS" ]; then
             ACCOUNTS=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           fi
@@ -148,21 +135,18 @@ jobs:
             size=$(stat -c%s "$f" 2>/dev/null || echo 0)
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
-          git diff --cached --quiet && echo "无新内容" && exit 0
+          if git diff --cached --quiet; then echo "✅ 本周无新内容"; exit 0; fi
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "🔄 增量 HTML+图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
+          git commit -m "📥 增量 HTML+图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git pull --rebase origin main || true
           git push
 
   update-video:
     name: 增量 视频
-    if: github.event.inputs.only_index != 'true'
     needs: update-html-image
+    if: always() && (needs.update-html-image.result == 'success' || needs.update-html-image.result == 'skipped') && github.event.inputs.only_index != 'true'
     runs-on: ubuntu-latest
-  schedule:
-    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
-
     timeout-minutes: 360
     env:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
@@ -179,12 +163,9 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
-          # 扫描 accounts/ 目录，取所有含 wayback_snapshots 的子目录 = 真实账号列表
-          # 支持单账号 / 多账号 / 仓库名≠账号名；不依赖 accounts.txt
           ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
             [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
           done)
-          # 兜底：扫不到（首次建档前）则用仓库名
           if [ -z "$ACCOUNTS" ]; then
             ACCOUNTS=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           fi
@@ -204,15 +185,6 @@ jobs:
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
             cd accounts/${U} && python3 /tmp/archive.py fetch-video || true
-            cd ../..
-          done <<< "${{ steps.info.outputs.accounts }}"
-
-      - name: retry --video-failed
-        run: |
-          while IFS= read -r U; do
-            if [ -z "$U" ]; then continue; fi
-            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py retry --video-failed || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -247,9 +219,6 @@ jobs:
     needs: update-video
     if: always() && (github.event.inputs.only_index == 'true' || needs.update-video.result == 'success')
     runs-on: ubuntu-latest
-  schedule:
-    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
-
     timeout-minutes: 360
     env:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
@@ -266,12 +235,9 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
-          # 扫描 accounts/ 目录，取所有含 wayback_snapshots 的子目录 = 真实账号列表
-          # 支持单账号 / 多账号 / 仓库名≠账号名；不依赖 accounts.txt
           ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
             [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
           done)
-          # 兜底：扫不到（首次建档前）则用仓库名
           if [ -z "$ACCOUNTS" ]; then
             ACCOUNTS=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           fi
