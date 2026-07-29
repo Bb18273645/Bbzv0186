@@ -140,6 +140,7 @@ jobs:
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🔄 增量 HTML+图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
+          git pull --rebase origin main || true
           git push
 
   update-video:
@@ -223,6 +224,7 @@ jobs:
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🎬 增量 视频 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
+          git pull --rebase origin main || true
           git push
 
   update-avatar:
@@ -318,6 +320,7 @@ jobs:
           COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
           [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "✅ 增量完成 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
+          git pull --rebase origin main || true
           git push
 
       - name: 链式触发全量重试（仅首次建档链路，由 setup 触发时）
