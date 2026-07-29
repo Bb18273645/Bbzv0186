@@ -1102,8 +1102,8 @@ const IS_ELECTRON = (location.protocol === 'incr:');
 const BASE = IS_ELECTRON ? 'incr://local/' : '';
 const ACCOUNTS_HARDCODED = ['Bbzv0186'];
 let ACCOUNT_BASE   = BASE;                       // 资源根
-let DB_PATH        = BASE + (ACCOUNTS_HARDCODED.length ? 'accounts/' + ACCOUNTS_HARDCODED[0] + '/' : '') + 'wayback_snapshots/index.json';
-let PROFILE_PATH   = BASE + (ACCOUNTS_HARDCODED.length ? 'accounts/' + ACCOUNTS_HARDCODED[0] + '/' : '') + 'wayback_snapshots/profile.json';
+let DB_PATH        = BASE + 'wayback_snapshots/index.json';
+let PROFILE_PATH   = BASE + 'wayback_snapshots/profile.json';
 let HTML_BASE      = BASE + 'wayback_snapshots/html/';
 let ASSET_BASE     = BASE + 'wayback_snapshots/';
 
