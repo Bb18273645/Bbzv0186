@@ -1,0 +1,330 @@
+name: 棣栨寤烘。
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: '浠庢寚瀹氭棩鏈熷紑濮嬫姄鍙?(YYYYMMDD锛岀暀绌哄垯鍏ㄩ噺)'
+        required: false
+        default: ''
+
+jobs:
+  build-html-image:
+    name: 寤烘。 HTML+鍥剧墖
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: 妫€鍑轰粨搴?        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 璇诲彇璐﹀彿鍒楄〃
+        id: info
+        run: |
+          OWNER=$(echo "${{ github.repository }}" | cut -d'/' -f1)
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          PAGES_URL="https://${OWNER}.github.io/${REPO}/"
+          echo "owner=$OWNER"         >> $GITHUB_OUTPUT
+          echo "repo=$REPO"           >> $GITHUB_OUTPUT
+          echo "pages_url=$PAGES_URL" >> $GITHUB_OUTPUT
+          if [ -f "accounts.txt" ]; then
+            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
+          else
+            ACCOUNTS="$REPO"
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+
+      - name: 瀹夎渚濊禆
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 鎷夊彇鏈€鏂拌剼鏈笌妯℃澘
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" \
+            -o /tmp/archive.py
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/index.html" \
+            -o index.html || true
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/.nojekyll" \
+            -o .nojekyll || touch .nojekyll
+
+      - name: 鏇挎崲 index.html 璐﹀彿鍒楄〃
+        run: |
+          ACCOUNTS="${{ steps.info.outputs.accounts }}"
+          ACCOUNTS_JSON=$(echo "$ACCOUNTS" | awk '{printf "'\''%s'\'', ", $0}' | sed "s/, $//")
+          sed -i "s/const ACCOUNTS_HARDCODED = \[.*\]/const ACCOUNTS_HARDCODED = [${ACCOUNTS_JSON}]/" index.html || true
+
+      - name: 寤虹珛鐩綍缁撴瀯
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            mkdir -p accounts/${U}/wayback_snapshots/{html,json,image,video,avatar,_log}
+            if [ ! -f "accounts/${U}/wayback_snapshots/profile.json" ]; then
+              curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/profile.template.json" \
+                -o accounts/${U}/wayback_snapshots/profile.json 2>/dev/null || \
+              echo "{\"name\":\"\",\"username\":\"@${U}\",\"bio\":\"\",\"location\":\"\",\"link\":\"\",\"avatar\":\"avatar/avatar.jpg\",\"banner\":\"avatar/1500x500.jpg\"}" \
+                > accounts/${U}/wayback_snapshots/profile.json
+              sed -i "s/{USERNAME}/${U}/g" accounts/${U}/wayback_snapshots/profile.json
+            fi
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: fetch-cdx
+        run: |
+          SINCE="${{ github.event.inputs.since }}"
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U}
+            if [ -n "$SINCE" ]; then
+              python3 /tmp/archive.py fetch-cdx "$U" --from "$SINCE" || true
+            else
+              python3 /tmp/archive.py fetch-cdx "$U" || true
+            fi
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: fetch-html
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py fetch-html || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: fetch-image
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py fetch-image || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: clean-html
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py clean-html || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: build-index锛堢涓€闃舵锛?        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py build-index || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 鐢熸垚 README
+        run: |
+          OWNER=${{ steps.info.outputs.owner }}
+          REPO=${{ steps.info.outputs.repo }}
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/README.template.md" \
+            -o README.md 2>/dev/null || echo "# 鎺ㄦ枃瀛樻。" > README.md
+          sed -i "s/{USERNAME}/${REPO}/g; s/{OWNER}/${OWNER}/g" README.md
+
+      - name: 鎺ㄩ€佺涓€闃舵
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --name-only | while IFS= read -r f; do
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then
+              git rm --cached "$f"
+            fi
+          done
+          git diff --cached --quiet && echo "鏃犳柊鍐呭" && exit 0
+          COUNT=$(git diff --cached --numstat | wc -l)
+          git commit -m "馃梻锔?棣栨寤烘。 HTML+鍥剧墖 (+${COUNT} 鏂囦欢) [skip ci]"
+          git push
+
+      - name: 寮€鍚?GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages \
+            --method POST --input - 2>/dev/null || \
+          echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages \
+            --method PUT --input - || true
+          gh repo edit "${{ github.repository }}" \
+            --homepage "${{ steps.info.outputs.pages_url }}" || true
+
+  build-video:
+    name: 寤烘。 瑙嗛
+    needs: build-html-image
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: 妫€鍑轰粨搴擄紙鎷夋渶鏂帮級
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - name: 璇诲彇璐﹀彿鍒楄〃
+        id: info
+        run: |
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          if [ -f "accounts.txt" ]; then
+            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
+          else
+            ACCOUNTS="$REPO"
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+
+      - name: 瀹夎渚濊禆
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 鎷夊彇鏈€鏂?archive.py
+        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+
+      - name: fetch-video
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py fetch-video || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: clean-html --force
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 鎺ㄩ€侊紙鍒嗘壒锛岄伩鍏嶅崟娆?pack 杩囧ぇ瀵艰嚧 HTTP 500锛?        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000   # 500MB 缂撳啿鍏滃簳
+          git config http.version HTTP/1.1        # 澶ф帹閫佷笅 HTTP/2 鍋跺彂 500锛屽洖閫€鏇寸ǔ
+
+          BATCH_BYTES=$((800*1024*1024))          # 姣忕疮璁＄害 800MB 灏辨彁浜ゅ苟鎺ㄩ€佷竴鎵?
+          push_with_retry () {
+            for i in 1 2 3 4 5; do
+              git push && return 0
+              echo "  [鎺ㄩ€佸け璐?绗?${i}/5 娆★紝绛?$((i*15))s 閲嶈瘯]"
+              sleep $((i*15))
+            done
+            return 1
+          }
+
+          git add -A
+          mapfile -t FILES < <(git diff --cached --name-only)
+          git reset -q
+          [ "${#FILES[@]}" -eq 0 ] && echo "鏃犳柊鍐呭" && exit 0
+
+          acc=0; batch=0
+          flush () {
+            git diff --cached --quiet && return 0
+            batch=$((batch+1))
+            git commit -q -m "馃幀 棣栨寤烘。 瑙嗛 (鎵规 ${batch}) [skip ci]"
+            push_with_retry || { echo "::error::绗?${batch} 鎵规帹閫佸け璐?; exit 1; }
+            acc=0
+          }
+
+          for f in "${FILES[@]}"; do
+            if [ -f "$f" ]; then
+              size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+              [ "$size" -gt 104857600 ] && continue   # 璺宠繃 >100MB 鍗曟枃浠讹紙GitHub 纭檺鍒讹級
+            else
+              size=0                                   # 宸插垹闄ょ殑鏂囦欢锛岀収甯?stage 鍏跺垹闄?            fi
+            git add -A -- "$f"
+            acc=$((acc+size))
+            [ "$acc" -ge "$BATCH_BYTES" ] && flush
+          done
+          flush   # 灏炬壒
+
+          echo "鉁?瑙嗛鍒嗘壒鎺ㄩ€佸畬鎴愶紝鍏?${batch} 鎵?
+
+  build-avatar:
+    name: 寤烘。 澶村儚+鏀跺熬
+    needs: build-video
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: 妫€鍑轰粨搴擄紙鎷夋渶鏂帮級
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+
+      - name: 璇诲彇璐﹀彿鍒楄〃
+        id: info
+        run: |
+          OWNER=$(echo "${{ github.repository }}" | cut -d'/' -f1)
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          if [ -f "accounts.txt" ]; then
+            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
+          else
+            ACCOUNTS="$REPO"
+          fi
+          echo "accounts<<EOF" >> $GITHUB_OUTPUT
+          echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
+          echo "EOF"           >> $GITHUB_OUTPUT
+          echo "pages_url=https://${OWNER}.github.io/${REPO}/" >> $GITHUB_OUTPUT
+
+      - name: 瀹夎渚濊禆
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: 鎷夊彇鏈€鏂?archive.py
+        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+
+      - name: fetch-avatars
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py fetch-avatars || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: clean-html --force
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: build-index锛堟渶缁堬級
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py build-index || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 鎺ㄩ€侊紙瀹岀粨锛?        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --name-only | while IFS= read -r f; do
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
+          done
+          if git diff --cached --quiet; then echo "鉁?鏃犳柊鍐呭"; exit 0; fi
+          COUNT=$(git diff --cached --numstat | wc -l)
+          git commit -m "鉁?棣栨寤烘。瀹屾垚 (+${COUNT} 鏂囦欢) [skip ci]"
+          git push
+          echo "馃敆 ${{ steps.info.outputs.pages_url }}"
