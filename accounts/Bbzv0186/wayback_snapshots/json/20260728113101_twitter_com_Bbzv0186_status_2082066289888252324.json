@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2082019894640709685",
+    "created_at": "2026-07-28T11:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082066289888252324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668693781791784961",
+          "start": 0,
+          "username": "yifu0753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082066289888252324",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082019894640709685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifu0753 身份证不打码吗?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2082019876236091392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTSC-Ja4AAMNyM.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2082019894640709685",
+        "created_at": "2026-07-28T11:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082066289888252324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082066289888252324",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082019894640709685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 身份证不打码吗?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082019876236091392"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082019894640709685",
+        "created_at": "2026-07-28T08:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082019894640709685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XhPnBm4La",
+              "end": 103,
+              "expanded_url": "https://x.com/yifu0753/status/2082019894640709685/photo/1",
+              "media_key": "3_2082019876236091392",
+              "start": 80,
+              "url": "https://t.co/5XhPnBm4La"
+            },
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/yifu0753/status/2077144443153711247",
+              "start": 104,
+              "url": "https://t.co/rDlcqARIVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082019894640709685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1636,
+          "like_count": 17,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077144443153711247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事发之后，bys让我不要追究。受到了多位人员的威胁。并且说帮我的人是有政治目的。让我删帖\n在明觉，晨曦，以及牧鸢等人的帮助和支持下。违法行为人已经被关进去三天 https://t.co/5XhPnBm4La https://t.co/rDlcqARIVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 101,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1397,
+          "like_count": 8979,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}
