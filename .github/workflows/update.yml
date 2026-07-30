@@ -2,7 +2,7 @@ name: 增量更新
 
 on:
   schedule:
-    - cron: "0 15 * * 0"  # 每周日 23:00 北京时间
+    - cron: "0 15 * * *"  # 每天 23:00 北京时间
   workflow_dispatch:
     inputs:
       from_setup:
