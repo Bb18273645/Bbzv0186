@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "1937305802307698996",
+    "created_at": "2026-07-29T14:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082476024055685592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1533303276690882562",
+          "start": 0,
+          "username": "kaiseli80317352"
+        },
+        {
+          "end": 28,
+          "id": "1681201330411503617",
+          "start": 17,
+          "username": "ywn1139412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082476024055685592",
+    "in_reply_to_user_id": "1533303276690882562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937501745086886154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaiseli80317352 @ywn1139412 求链接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "1937305802307698996",
+        "created_at": "2026-07-29T14:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082476024055685592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1533303276690882562",
+              "start": 0,
+              "username": "kaiseli80317352"
+            },
+            {
+              "end": 28,
+              "id": "1681201330411503617",
+              "start": 17,
+              "username": "ywn1139412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082476024055685592",
+        "in_reply_to_user_id": "1533303276690882562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937501745086886154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaiseli80317352 @ywn1139412 求链接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533303276690882562",
+        "conversation_id": "1937305802307698996",
+        "created_at": "2025-06-24T13:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937501745086886154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681201330411503617",
+              "start": 0,
+              "username": "ywn1139412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937501745086886154",
+        "in_reply_to_user_id": "1681201330411503617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2251,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937333061840232574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywn1139412 bro再坚持一段时间，我重开之前会分享链接的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 103,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T04:22:50.000Z",
+        "description": "╥﹏╥",
+        "id": "1533303276690882562",
+        "name": "KSL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937288514518806528/8CSB58j6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 14,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "kaiseli80317352",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T07:17:04.000Z",
+        "description": "沉溺于幻想/03/isfj",
+        "id": "1681201330411503617",
+        "name": "凌蕾🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056875609163522048/jHrOb2aJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 155,
+          "like_count": 10552,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "ywn1139412",
+        "verified": false
+      }
+    ]
+  }
+}
