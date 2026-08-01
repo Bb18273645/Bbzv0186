@@ -218,14 +218,16 @@ jobs:
           done <<< "${{ steps.info.outputs.accounts }}"
 
       - name: build-index
+      - name: 清理 2025 年条目
         run: |
-          while IFS= read -r U; do
-            if [ -z "$U" ]; then continue; fi
-            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py build-index || true
-            cd ../..
-          done <<< "${{ steps.info.outputs.accounts }}"
-
+          python3 -c "import json,glob
+          for p in glob.glob('accounts/*/wayback_snapshots/index.json'):
+              d=json.load(open(p,encoding='utf-8'))
+              n=[e for e in d if not str(e.get('date') or '').startswith('2025')]
+              if len(n)!=len(d):
+                  open(p,'w',encoding='utf-8').write(json.dumps(n,ensure_ascii=False,separators=(',',':')))
+                  print('removed',len(d)-len(n),'entries from',p)
+          "
       - name: 推送
         run: |
           git config user.name  "github-actions[bot]"
