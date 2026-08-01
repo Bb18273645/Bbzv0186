@@ -218,6 +218,14 @@ jobs:
           done <<< "${{ steps.info.outputs.accounts }}"
 
       - name: build-index
+        run: |
+          while IFS= read -r U; do
+            if [ -z "$U" ]; then continue; fi
+            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
+            cd accounts/${U} && python3 /tmp/archive.py build-index || true
+            cd ../..
+          done <<< "${{ steps.info.outputs.accounts }}"
+
       - name: 清理 2025 年条目
         run: |
           python3 -c "import json,glob
