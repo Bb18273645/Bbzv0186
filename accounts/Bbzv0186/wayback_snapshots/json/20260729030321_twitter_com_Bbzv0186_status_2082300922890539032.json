@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2082250224987476428",
+    "created_at": "2026-07-29T03:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082300922890539032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1255196983020548096",
+          "start": 0,
+          "username": "JobChuanqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082300922890539032",
+    "in_reply_to_user_id": "1255196983020548096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082250224987476428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JobChuanqi 求一张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2082249861475491840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWjN37aYAAKyZ6.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2082249881117487104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWjPBGbcAA2QXu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2082250224987476428",
+        "created_at": "2026-07-29T03:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082300922890539032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1255196983020548096",
+              "start": 0,
+              "username": "JobChuanqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082300922890539032",
+        "in_reply_to_user_id": "1255196983020548096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082250224987476428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JobChuanqi 求一张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082249861475491840",
+            "3_2082249881117487104"
+          ]
+        },
+        "author_id": "1255196983020548096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2082250224987476428",
+        "created_at": "2026-07-28T23:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:41:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082250082578239901",
+          "2082250224987476428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwjAO8wTtl",
+              "end": 101,
+              "expanded_url": "https://x.com/JobChuanqi/status/2082250224987476428/photo/1",
+              "media_key": "3_2082249861475491840",
+              "start": 78,
+              "url": "https://t.co/LwjAO8wTtl"
+            },
+            {
+              "display_url": "pic.x.com/LwjAO8wTtl",
+              "end": 101,
+              "expanded_url": "https://x.com/JobChuanqi/status/2082250224987476428/photo/1",
+              "media_key": "3_2082249881117487104",
+              "start": 78,
+              "url": "https://t.co/LwjAO8wTtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082250224987476428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13537,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "一个月前，我找英国同学拿了100张的Giffgaff卡，好不容易已经到深圳顺利过海关，马上就要到手里，结果传出中国区被封，这100张卡准备都免费送出去了。 https://t.co/LwjAO8wTtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 101,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T18:07:40.000Z",
+        "description": "03｜深圳｜3个月项目累计营收 50W+｜AI × 跨境电商出海 🌏创业目标：做一家上市公司，成为全球大卖｜鹰将俱乐部交流群：https://t.co/0HkrR0Rj3O 公开记录创业与增长实验",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+qqsLG3RdRENhY…",
+                "end": 86,
+                "expanded_url": "https://t.me/+qqsLG3RdRENhYzBl",
+                "start": 63,
+                "url": "https://t.co/0HkrR0Rj3O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuanqi-xi.vercel.app",
+                "end": 23,
+                "expanded_url": "http://chuanqi-xi.vercel.app",
+                "start": 0,
+                "url": "https://t.co/u7xYioRocH"
+              }
+            ]
+          }
+        },
+        "id": "1255196983020548096",
+        "location": "业务与社群",
+        "name": "Job川启",
+        "pinned_tweet_id": "2068104593092001849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057044460576583680/IhpoUx7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2981,
+          "following_count": 98,
+          "like_count": 1499,
+          "listed_count": 8,
+          "media_count": 77,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/u7xYioRocH",
+        "username": "JobChuanqi",
+        "verified": true
+      }
+    ]
+  }
+}

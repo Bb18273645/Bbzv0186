@@ -1334,7 +1334,7 @@ async function loadProfile() {
 /* ── Index ────────────────────────────────────────────── */
 async function loadIndex() {
   try {
-    const r = await fetch(DB_PATH + (DB_PATH.includes('?') ? '&' : '?') + '_t=' + Date.now());
+    const r = await fetch(DB_PATH);
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     db = await r.json();
   } catch(e) {

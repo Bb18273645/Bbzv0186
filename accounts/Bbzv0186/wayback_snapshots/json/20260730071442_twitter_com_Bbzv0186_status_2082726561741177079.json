@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2082726561741177079",
+    "created_at": "2026-07-30T07:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082726561741177079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1218028959109210113",
+          "start": 3,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082726561741177079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082692690492449184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RizumuA3: 在九院今天是第 12 天就诊了。性别重置 SRS 术后3年、修复术后1年，三周前疑似因为长期未愈合的肉芽组织，外阴感染。12 天前开始，一直在九院急诊妇科 挂水消炎。今天开始，被急诊妇科拒诊了。理由是妇科没有性别手术相关资质，属于是无证接诊，无法承担…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082692652806594561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOc17uLaYAEgvAj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2082726561741177079",
+        "created_at": "2026-07-30T07:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082726561741177079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1218028959109210113",
+              "start": 3,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082726561741177079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082692690492449184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RizumuA3: 在九院今天是第 12 天就诊了。性别重置 SRS 术后3年、修复术后1年，三周前疑似因为长期未愈合的肉芽组织，外阴感染。12 天前开始，一直在九院急诊妇科 挂水消炎。今天开始，被急诊妇科拒诊了。理由是妇科没有性别手术相关资质，属于是无证接诊，无法承担…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082692652806594561"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "conversation_id": "2082692690492449184",
+        "created_at": "2026-07-30T05:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082692690492449184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tennLYTEvG",
+              "end": 158,
+              "expanded_url": "https://x.com/RizumuA3/status/2082692690492449184/photo/1",
+              "media_key": "3_2082692652806594561",
+              "start": 135,
+              "url": "https://t.co/tennLYTEvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082692690492449184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在九院今天是第 12 天就诊了。性别重置 SRS 术后3年、修复术后1年，三周前疑似因为长期未愈合的肉芽组织，外阴感染。12 天前开始，一直在九院急诊妇科 挂水消炎。今天开始，被急诊妇科拒诊了。理由是妇科没有性别手术相关资质，属于是无证接诊，无法承担风险。在此之前也被 长征医院急诊妇科、华山医院急诊（坐120去的）、红房子 拒诊。也许因为早期被长征医院拒诊耽误了病情。\n\n所以从今天第12天起，现在转到急诊 整复外科 就诊了。还是老样子挂水。挂满 14 天就停。15 天做个血常规。没问题就不用挂水了。\n\n第 9 天的时候。辗转妇科专家门诊后，在整复外科找到了刘阳主任。刘阳主任表达了原则上不是本院的手术是不管的，但是刘阳主任 出于怜悯之心 给我做了 清创手术。\n\n清创手术在局麻后 把第 8 天时因为脓肿破溃的伤口切开。浓腔较大，没有与尿道或直肠相连。用刮勺刮除坏死组织，放入引流条。术后肿胀和疼痛明显缓解。\n\n清创术后第二天遇到了伤口每天换药的问题，刘阳说需要专业医生负责换药，冲洗和更换引流条。第二天跑了六个门诊部门，包括妇科、整复外科等，没有找到可以换药的医生。因为我不是住院部做的手术，通常换药是在住院部进行的。\n\n清创术后第三天我在住院部重新找到了刘阳主任。刘阳说因为想不到如何收费等问题，在住院部也不方便为我换药。最后在我的要求下，刘阳同意最后为我换药一次，并且我和家属记录下来方法和过程，后续自行换药。\n\n换药需要把稀碘伏浸润后的引流条塞入伤口内腔深处，因为会疼的手软，我没办法自行完成，需要有人帮我塞入。还有一些冲洗等步骤我都可以自行完成。\n\n接受清创之前一周多的时间内因为剧烈疼痛无法自理、行走等，需要强效止疼药。拨打 120 两次。清创术后快速消肿和好转。\n\n拍了患处的 CT，后续还打算去找刘阳主任复查确认康复状况。\n\n是刘阳主任的怜悯给了我病情好转的结果。我非常感谢刘阳主任和急诊为我接诊的各位医生。\n\n最初它只是一个小感染。我在想。在上海这样的一线城市。SRS 术后，相关部位出现问题就诊都如此困难。在有 SRS 手术资质的九院，也不顺利。那其它城市的跨性别者，所拥有的医疗环境，是什么样子呢？\n😢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 10464,
+          "like_count": 160,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "在九院今天是第 12 天就诊了。性别重置 SRS 术后3年、修复术后1年，三周前疑似因为长期未愈合的肉芽组织，外阴感染。12 天前开始，一直在九院急诊妇科 挂水消炎。今天开始，被急诊妇科拒诊了。理由是妇科没有性别手术相关资质，属于是无证接诊，无法承担风险。在此之前也被 https://t.co/tennLYTEvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 106,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12157,
+          "following_count": 1603,
+          "like_count": 45793,
+          "listed_count": 58,
+          "media_count": 2010,
+          "tweet_count": 15173
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

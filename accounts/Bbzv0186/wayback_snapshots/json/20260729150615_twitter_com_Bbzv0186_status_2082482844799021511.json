@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2082441883792617659",
+    "created_at": "2026-07-29T15:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082482844799021511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082482844799021511",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082441883792617659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2082441865119555584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZR19PaYAAmYZn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2082441883792617659",
+        "created_at": "2026-07-29T15:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082482844799021511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082482844799021511",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082441883792617659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082441865119555584"
+          ]
+        },
+        "author_id": "1906595429162299392",
+        "conversation_id": "2082441883792617659",
+        "created_at": "2026-07-29T12:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:19:43.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082440935229841683",
+          "2082441462088618006",
+          "2082441883792617659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPIq1brqdP",
+              "end": 171,
+              "expanded_url": "https://x.com/Dream_Shards/status/2082441883792617659/photo/1",
+              "media_key": "3_2082441865119555584",
+              "start": 148,
+              "url": "https://t.co/zPIq1brqdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082441883792617659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "300fo纪念！感谢大家支持，希望大家可以多找咱闲聊和倾诉，然后进行一个抽奖，咱没什么钱只能抽些小东西，还请不要嫌弃喵\n一等奖：一板国补一板50色一板橙普x1\n二等奖：一些mtf/鱼板相关制品（约20r）x2\n三等奖：找我买色40r优惠券x2\n抽奖方式：关注我，点赞转帖此帖子\n开奖时间：8.6 12:00（没人转我就内定亲友了）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 991,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "300fo纪念！感谢大家支持，希望大家可以多找咱闲聊和倾诉，然后进行一个抽奖，咱没什么钱只能抽些小东西，还请不要嫌弃喵\n一等奖：一板国补一板50色一板橙普x1\n二等奖：一些mtf/鱼板相关制品（约20r）x2\n三等奖：找我买色40r优惠券x2\n抽奖方式：关注我，点赞转帖此帖子\n开奖时间：8.6 https://t.co/zPIq1brqdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 106,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "一只漂浮的蓝色水母/同类友跨互fo/hrt：26.2.18/家暴党/非资深oder/地雷系重力系警告⚠️\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥（色商版）",
+        "pinned_tweet_id": "2081650358103757073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 350,
+          "like_count": 1036,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true
+      }
+    ]
+  }
+}

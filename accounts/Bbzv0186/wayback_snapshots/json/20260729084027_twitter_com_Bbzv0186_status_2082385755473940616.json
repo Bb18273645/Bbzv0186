@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2082167104674152740",
+    "created_at": "2026-07-29T08:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082385755473940616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082385755473940616",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082167104674152740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazama_Nagi_ 互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2082167104674152740",
+        "created_at": "2026-07-29T08:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082385755473940616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082385755473940616",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082167104674152740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781868776918790144",
+        "conversation_id": "2082167104674152740",
+        "created_at": "2026-07-28T18:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082167104674152740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082167104674152740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nagi酱想要互fo喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 102,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🏫高中生（准确来讲应该是准高一，还没开学）\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "location": "Canada",
+        "name": "Kazama_Nagi🏳️‍⚧️",
+        "pinned_tweet_id": "2080968300151103664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 104,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Kazama_Nagi_",
+        "verified": false
+      }
+    ]
+  }
+}
