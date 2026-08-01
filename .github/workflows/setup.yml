@@ -142,7 +142,7 @@ jobs:
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
           COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "🗂️ 首次建档 HTML+图片 (+${COUNT} 文件) [skip ci]"
+          git commit -m "🗂️ 首次建档 HTML+图片 (+${COUNT} 文件)"
           git pull --rebase origin main || true
           git push
 
@@ -238,7 +238,7 @@ jobs:
           flush () {
             git diff --cached --quiet && return 0
             batch=$((batch+1))
-            git commit -q -m "🎬 首次建档 视频 (批次 ${batch}) [skip ci]"
+            git commit -q -m "🎬 首次建档 视频 (批次 ${batch})"
             push_with_retry || { echo "::error::第 ${batch} 批推送失败"; exit 1; }
             acc=0
           }
@@ -332,7 +332,7 @@ jobs:
           done
           if git diff --cached --quiet; then echo "✅ 无新内容"; exit 0; fi
           COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "✅ 首次建档完成 (+${COUNT} 文件) [skip ci]"
+          git commit -m "✅ 首次建档完成 (+${COUNT} 文件)"
           git pull --rebase origin main || true
           git push
           echo "🔗 ${{ steps.info.outputs.pages_url }}"
