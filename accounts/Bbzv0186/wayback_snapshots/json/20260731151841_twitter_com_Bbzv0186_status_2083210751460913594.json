@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2083204815912587504",
+    "created_at": "2026-07-31T15:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083210751460913594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682735551072423936",
+          "start": 0,
+          "username": "china_action"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083210751460913594",
+    "in_reply_to_user_id": "1682735551072423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083204815912587504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china_action 国内一但你有什么奖项,第一时间一定是要感谢领导的栽培,不管领导有没有提供帮助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2083204815912587504",
+        "created_at": "2026-07-31T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083210751460913594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682735551072423936",
+              "start": 0,
+              "username": "china_action"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083210751460913594",
+        "in_reply_to_user_id": "1682735551072423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083204815912587504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_action 国内一但你有什么奖项,第一时间一定是要感谢领导的栽培,不管领导有没有提供帮助"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682735551072423936",
+        "conversation_id": "2083204815912587504",
+        "created_at": "2026-07-31T14:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083204815912587504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "China Action’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nKOL…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nKOLLyOZPkGR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2082854346803556352/RUqi9EiL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082854346803556352/RUqi9EiL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Scheduled: 欧美学习墙外绽放，王虹们该回国吗？",
+              "unwound_url": "https://twitter.com/i/spaces/1nKOLLyOZPkGR/peek",
+              "url": "https://t.co/XU0NrRKWG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083204815912587504",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XU0NrRKWG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 108,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T12:53:44.000Z",
+        "description": "“中国行动”是由现代政治文明倡导者发起成立的一个非盈利组织，目的在于终结中国数千年之专制制度，建立一个自由民主文明的、真正的新中国。为达成这一目标，它携手全球华人，致力于推动在约定的共同时间统一举行抗议、罢工、罢课，开展大规模非暴力不合作运动，推翻独裁专制、开启民主转型之路。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaaction.org",
+                "end": 23,
+                "expanded_url": "https://chinaaction.org/",
+                "start": 0,
+                "url": "https://t.co/NPgtDrHamQ"
+              }
+            ]
+          }
+        },
+        "id": "1682735551072423936",
+        "name": "China Action",
+        "pinned_tweet_id": "2082854345893421532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955281655083700224/saaphaEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28260,
+          "following_count": 1743,
+          "like_count": 8684,
+          "listed_count": 105,
+          "media_count": 967,
+          "tweet_count": 7724
+        },
+        "url": "https://t.co/NPgtDrHamQ",
+        "username": "china_action",
+        "verified": true
+      }
+    ]
+  }
+}
