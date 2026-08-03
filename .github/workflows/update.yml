@@ -317,6 +317,15 @@ jobs:
           git pull --rebase origin main || true
           git push
 
+      - name: 触发 GitHub Pages 部署
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 3
+          gh workflow run "Deploy to GitHub Pages" --repo "${{ github.repository }}" --ref main \
+            && echo "✅ 已触发 Pages 部署" \
+            || echo "::warning::触发 Pages 部署失败"
       - name: 链式触发全量重试（仅首次建档链路，由 setup 触发时）
         if: ${{ github.event.inputs.from_setup == 'true' }}
         env:
