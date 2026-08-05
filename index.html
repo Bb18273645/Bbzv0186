@@ -1334,7 +1334,7 @@ async function loadProfile() {
 /* ── Index ────────────────────────────────────────────── */
 async function loadIndex() {
   try {
-    const r = await fetch(DB_PATH);
+    const r = await fetch(DB_PATH + (DB_PATH.includes('?') ? '&' : '?') + '_t=' + Date.now());
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     db = await r.json();
   } catch(e) {
@@ -2168,8 +2168,8 @@ function collapseEmbedded(doc, embedded, iframe) {
   bar.innerHTML = `
     <span style="color:#1d9bf0;font-size:12px;flex-shrink:0;">▶</span>
     <span style="color:#1d9bf0;font-weight:600;flex-shrink:0;">引用</span>
-    <span style="font-weight:500;flex-shrink:0;">${escapeHtml(username)}</span>
-    <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;opacity:.8;">·&nbsp;${escapeHtml(snippetText)}</span>
+    <span style="font-weight:500;flex-shrink:0;">${esc(username)}</span>
+    <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;opacity:.8;">·&nbsp;${esc(snippetText)}</span>
   `;
 
   // 默认隐藏 embedded，显示折叠条
@@ -2191,9 +2191,6 @@ function collapseEmbedded(doc, embedded, iframe) {
   });
 }
 
-function escapeHtml(s) {
-  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
 
 /* 从图片相对路径里提取 basename（如 G7F7hTpaIAEw53d 或 HFJ8JQ5aAAAXUq_）
    路径形如 ../image/20260317142640_..._media_BASENAME_jpg.jpg
@@ -2842,15 +2839,27 @@ function applyTheme(light, save=true) {
 function toggleTheme(){ applyTheme(!isLight); }
 
 /* ── 工具 ─────────────────────────────────────────────── */
-function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
 function escRe(s){ return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
 
 /* bio / 纯文本里的 URL 和 @用户名 转成可点击链接 */
 function linkifyText(text) {
   if (!text) return '';
-  let s = esc(text);
-  s = s.replace(/(https?:\/\/[^\s&lt;&gt;&amp;"]+)/g, '<a href="$1" target="_blank" style="color:var(--accent,#1d9bf0)">$1</a>');
-  s = s.replace(/@([A-Za-z0-9_]+)/g, '<a href="https://x.com/$1" target="_blank" style="color:var(--accent,#1d9bf0)">@$1</a>');
+  const accent = 'color:var(--accent,#1d9bf0)';
+  // 先按原始文本切分 URL（保留 & 等查询参数），其余文本统一转义，最后拼回
+  let s = '';
+  let last = 0;
+  const re = /https?:\/\/[^\s<>"']+/g;
+  let m;
+  while ((m = re.exec(text))) {
+    s += esc(text.slice(last, m.index));
+    const url = esc(m[0]);
+    s += `<a href="${url}" target="_blank" style="${accent}">${url}</a>`;
+    last = m.index + m[0].length;
+  }
+  s += esc(text.slice(last));
+  // @用户名
+  s = s.replace(/@([A-Za-z0-9_]+)/g, `<a href="https://x.com/$1" target="_blank" style="${accent}">@$1</a>`);
   return s;
 }
 
@@ -2896,7 +2905,7 @@ function openLightbox(src) {
     box.onclick = closeLightbox;
     document.body.appendChild(box);
   }
-  box.innerHTML = `<img src="${src.replace(/"/g,'&quot;')}" alt=""><button class="lightbox-close" aria-label="关闭">✕</button>`;
+  box.innerHTML = `<img src="${esc(src)}" alt=""><button class="lightbox-close" aria-label="关闭">✕</button>`;
   box.classList.add('open');
 }
 function closeLightbox() {
@@ -2940,7 +2949,7 @@ function openShare(tweetId, file) {
             <div class="share-row-label">${esc(r.label)}</div>
             <div class="share-row-value" title="${esc(r.value)}">${esc(r.value)}</div>
           </div>
-          <button class="share-copy" onclick="copyShare(this,'${esc(r.value).replace(/'/g,"\\'")}')">复制</button>
+          <button class="share-copy" onclick="copyShare(this)">复制</button>
         </div>`).join('')}
     </div>`;
   overlay.classList.add('open');
@@ -2951,7 +2960,9 @@ function closeShare() {
   if (overlay) overlay.classList.remove('open');
 }
 
-function copyShare(btn, text) {
+function copyShare(btn) {
+  const row = btn.closest('.share-row');
+  const text = row ? row.querySelector('.share-row-value').textContent : '';
   const done = () => {
     btn.textContent = '已复制';
     btn.classList.add('copied');

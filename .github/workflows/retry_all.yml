@@ -172,6 +172,7 @@ jobs:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: 检出仓库（拉最新）
@@ -252,3 +253,14 @@ jobs:
           git commit -m "✅ 全量重试完成 (+${COUNT} 文件) $(date -u +%Y-%m-%d)"
           git pull --rebase origin main || true
           git push
+
+
+      - name: 触发 GitHub Pages 部署
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 3
+          gh workflow run "Deploy to GitHub Pages" --repo "${{ github.repository }}" --ref main \
+            && echo "已触发 Pages 部署" \
+            || echo "::warning::触发 Pages 部署失败"
