@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-07T16:04:00",
+  "last_updated": "2026-08-07T16:04:15",
   "html": {
     "https://web.archive.org/web/20260529030006if_/https://twitter.com/Bbzv0186/status/2060194443471495197": {
       "status": "done",
@@ -1383,16 +1383,18 @@
       "last_updated": "2026-08-04T17:00:34"
     },
     "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260806050233_twitter_com_Bbzv0186_status_2085230022139281775.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T16:04:15"
     },
     "https://pbs.twimg.com/profile_images/2082448349387763712/cKmd-wgx_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260806083018_twitter_com_Bbzv0186_status_2085282302959960470.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T16:04:15"
     }
   },
   "media": {
@@ -2557,7 +2559,7 @@
       "last_updated": "2026-08-07T16:01:43"
     },
     "20260806050233_twitter_com_Bbzv0186_status_2085230022139281775.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO7f_XfaIAAxRIu.jpg",
@@ -2569,10 +2571,10 @@
           "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T16:03:58"
+      "last_updated": "2026-08-07T16:04:15"
     },
     "20260806083018_twitter_com_Bbzv0186_status_2085282302959960470.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPBlMoubMAAMd_U.jpg"
@@ -2583,7 +2585,7 @@
           "https://pbs.twimg.com/profile_images/2082448349387763712/cKmd-wgx_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T16:03:58"
+      "last_updated": "2026-08-07T16:04:15"
     },
     "20260806153310_twitter_com_Bbzv0186_status_2085388721579270641.json": {
       "status": "done",

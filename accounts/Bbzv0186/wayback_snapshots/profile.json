@@ -1,11 +1,22 @@
 {
   "name": "Bbzv🍥🏳️‍⚧️",
   "username": "@Bbzv0186",
-  "bio": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+  "bio": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21 l 向我发送匿名消息https://ngl.link/bbzvl",
   "location": "",
   "link": "https://t.me/RainbowTerminal",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/bbzvl",
+        "end": 99,
+        "expanded_url": "https://ngl.link/bbzvl",
+        "start": 76,
+        "url": "https://t.co/IjkQa056Zp"
+      }
+    ]
+  }
 }
