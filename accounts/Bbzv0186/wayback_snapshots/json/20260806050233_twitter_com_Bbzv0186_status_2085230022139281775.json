@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2084849965114020266",
+    "created_at": "2026-08-06T05:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085230022139281775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085230022139281775",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084849965114020266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084849957249622016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7f_XfaIAAxRIu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2084849957266423808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7f_XjagAAD6Qa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2084849965114020266",
+        "created_at": "2026-08-06T05:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085230022139281775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085230022139281775",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084849965114020266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084849957249622016",
+            "3_2084849957266423808"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2084849965114020266",
+        "created_at": "2026-08-05T03:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084849965114020266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEu9Tr6JxV",
+              "end": 29,
+              "expanded_url": "https://x.com/nothousand/status/2084849965114020266/photo/1",
+              "media_key": "3_2084849957249622016",
+              "start": 6,
+              "url": "https://t.co/PEu9Tr6JxV"
+            },
+            {
+              "display_url": "pic.x.com/PEu9Tr6JxV",
+              "end": 29,
+              "expanded_url": "https://x.com/nothousand/status/2084849965114020266/photo/1",
+              "media_key": "3_2084849957266423808",
+              "start": 6,
+              "url": "https://t.co/PEu9Tr6JxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084849965114020266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 78356,
+          "like_count": 773,
+          "quote_count": 1,
+          "reply_count": 166,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "毕业了啊。 https://t.co/PEu9Tr6JxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜身高:172cm｜出厂日期:2012/01/21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 118,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "菁芊镜華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 129,
+          "like_count": 9483,
+          "listed_count": 10,
+          "media_count": 585,
+          "tweet_count": 5943
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}
