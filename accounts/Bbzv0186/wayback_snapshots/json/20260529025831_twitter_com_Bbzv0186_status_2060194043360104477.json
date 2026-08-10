@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060194040629649408"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060194043360104477",
+    "created_at": "2026-05-29T02:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060194043360104477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDw0DuupW7",
+          "end": 37,
+          "expanded_url": "https://x.com/Bbzv0186/status/2060194043360104477/photo/1",
+          "media_key": "3_2060194040629649408",
+          "start": 14,
+          "url": "https://t.co/XDw0DuupW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060194043360104477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么，最近评论总有这些？ https://t.co/XDw0DuupW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060194040629649408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdHkIgbYAAuU2c.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060194040629649408"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060194043360104477",
+        "created_at": "2026-05-29T02:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060194043360104477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDw0DuupW7",
+              "end": 37,
+              "expanded_url": "https://x.com/Bbzv0186/status/2060194043360104477/photo/1",
+              "media_key": "3_2060194040629649408",
+              "start": 14,
+              "url": "https://t.co/XDw0DuupW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060194043360104477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么，最近评论总有这些？ https://t.co/XDw0DuupW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "Blue Achive/梓厨/身高:172cm/出厂日期:2012/01/21",
+        "id": "1945767299912511488",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Bbzv0186",
+        "verified": false
+      }
+    ]
+  }
+}
