@@ -22,10 +22,6 @@
       "status": "done",
       "last_updated": "2026-07-29T08:32:02"
     },
-    "https://web.archive.org/web/20260529025831if_/https://twitter.com/Bbzv0186/status/2060194043360104477": {
-      "status": "done",
-      "last_updated": "2026-07-29T08:32:02"
-    },
     "https://web.archive.org/web/20260529025103if_/https://twitter.com/Bbzv0186/status/2060192167629660639": {
       "status": "done",
       "last_updated": "2026-07-29T08:32:02"
@@ -429,9 +425,7 @@
     },
     "https://pbs.twimg.com/media/HJdHkIgbYAAuU2c.jpg": {
       "status": "failed",
-      "referenced_by": [
-        "20260529025831_twitter_com_Bbzv0186_status_2060194043360104477.json"
-      ],
+      "referenced_by": [],
       "last_updated": "2026-08-09T15:39:17",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529025831im_/https://pbs.twimg.com/media/HJdHkIgbYAAuU2c.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff7aff30920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 26
@@ -944,7 +938,6 @@
         "20260528140618_twitter_com_Bbzv0186_status_2059999711675752494.json",
         "20260529025103_twitter_com_Bbzv0186_status_2060192167629660639.json",
         "20260529025558_twitter_com_Bbzv0186_status_2060193402382340300.json",
-        "20260529025831_twitter_com_Bbzv0186_status_2060194043360104477.json",
         "20260529030006_twitter_com_Bbzv0186_status_2060194443471495197.json",
         "20260529034745_twitter_com_Bbzv0186_status_2060206434810531994.json",
         "20260529055107_twitter_com_Bbzv0186_status_2060237482575462622.json",
@@ -1516,20 +1509,6 @@
         ]
       },
       "last_updated": "2026-07-29T08:33:33"
-    },
-    "20260529025831_twitter_com_Bbzv0186_status_2060194043360104477.json": {
-      "status": "failed",
-      "depends_on": {
-        "images": [
-          "https://pbs.twimg.com/media/HJdHkIgbYAAuU2c.jpg"
-        ],
-        "videos": [],
-        "avatars": [
-          "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg"
-        ]
-      },
-      "last_updated": "2026-08-09T15:40:26",
-      "miss_count": 24
     },
     "20260529030006_twitter_com_Bbzv0186_status_2060194443471495197.json": {
       "status": "done",
