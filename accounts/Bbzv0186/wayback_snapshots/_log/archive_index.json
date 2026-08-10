@@ -310,10 +310,6 @@
       "status": "done",
       "last_updated": "2026-08-01T16:06:52"
     },
-    "https://web.archive.org/web/20260729155659if_/https://twitter.com/Bbzv0186/status/2082495612256461197": {
-      "status": "done",
-      "last_updated": "2026-08-01T16:06:53"
-    },
     "https://web.archive.org/web/20260730071540if_/https://twitter.com/Bbzv0186/status/2082726806730559904": {
       "status": "done",
       "last_updated": "2026-08-01T16:06:54"
@@ -1029,7 +1025,6 @@
         "20260729085352_twitter_com_Bbzv0186_status_2082389132525932916.json",
         "20260729123821_twitter_com_Bbzv0186_status_2082445622754619421.json",
         "20260729150615_twitter_com_Bbzv0186_status_2082482844799021511.json",
-        "20260729155659_twitter_com_Bbzv0186_status_2082495612256461197.json",
         "20260729155754_twitter_com_Bbzv0186_status_2082495841416380798.json",
         "20260730071442_twitter_com_Bbzv0186_status_2082726561741177079.json",
         "20260730071540_twitter_com_Bbzv0186_status_2082726806730559904.json",
@@ -1334,7 +1329,6 @@
       "referenced_by": [
         "20260729123813_twitter_com_Bbzv0186_status_2082445591838359564.json",
         "20260729123821_twitter_com_Bbzv0186_status_2082445622754619421.json",
-        "20260729155659_twitter_com_Bbzv0186_status_2082495612256461197.json",
         "20260729155754_twitter_com_Bbzv0186_status_2082495841416380798.json"
       ],
       "last_updated": "2026-07-31T16:46:05"
@@ -2434,18 +2428,6 @@
         "avatars": [
           "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
           "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg"
-        ]
-      },
-      "last_updated": "2026-08-01T16:06:55"
-    },
-    "20260729155659_twitter_com_Bbzv0186_status_2082495612256461197.json": {
-      "status": "done",
-      "depends_on": {
-        "images": [],
-        "videos": [],
-        "avatars": [
-          "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
-          "https://pbs.twimg.com/profile_images/2035372542819696640/v_5bHa9Z_normal.jpg"
         ]
       },
       "last_updated": "2026-08-01T16:06:55"
