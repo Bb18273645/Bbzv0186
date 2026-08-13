@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087149152492990464",
+        "3_2087149152669249536",
+        "3_2087149153738743808"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "conversation_id": "2087149157224186073",
+    "created_at": "2026-08-11T12:08:31.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087149157224186073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxilJlVE9k",
+          "end": 150,
+          "expanded_url": "https://x.com/Bbzv0186/status/2087149157224186073/photo/1",
+          "media_key": "3_2087149152492990464",
+          "start": 127,
+          "url": "https://t.co/oxilJlVE9k"
+        },
+        {
+          "display_url": "pic.x.com/oxilJlVE9k",
+          "end": 150,
+          "expanded_url": "https://x.com/Bbzv0186/status/2087149157224186073/photo/1",
+          "media_key": "3_2087149152669249536",
+          "start": 127,
+          "url": "https://t.co/oxilJlVE9k"
+        },
+        {
+          "display_url": "pic.x.com/oxilJlVE9k",
+          "end": 150,
+          "expanded_url": "https://x.com/Bbzv0186/status/2087149157224186073/photo/1",
+          "media_key": "3_2087149153738743808",
+          "start": 127,
+          "url": "https://t.co/oxilJlVE9k"
+        },
+        {
+          "display_url": "x.com/paperly_forge/…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/paperly_forge/status/2087053040314654837",
+          "start": 151,
+          "url": "https://t.co/KeKrvDdgvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087149157224186073",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087149152492990464"
+      },
+      {
+        "media_key": "3_2087149152669249536"
+      },
+      {
+        "media_key": "3_2087149153738743808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087053040314654837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安。\n顺便说一下这群sb,人都走了,还要发在墙内炒作,这群评价也是一样。在现实中没啥存在感,看到眼中的“异类”走了,便要在评论区指指点点,来找存在感。\n总结:这发视频的和评论区那帮人在现实中过的不如意,便要把恶意攻击我们这帮少数群体,来找所谓的存在感 https://t.co/oxilJlVE9k https://t.co/KeKrvDdgvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087149152492990464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcLGJOaMAAmF1f.jpg",
+        "width": 899
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087149152669249536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcLGJ4bsAADpMt.jpg",
+        "width": 899
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087149153738743808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcLGN3a4AAIViH.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087149152492990464",
+            "3_2087149152669249536",
+            "3_2087149153738743808"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "conversation_id": "2087149157224186073",
+        "created_at": "2026-08-11T12:08:31.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087149157224186073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxilJlVE9k",
+              "end": 150,
+              "expanded_url": "https://x.com/Bbzv0186/status/2087149157224186073/photo/1",
+              "media_key": "3_2087149152492990464",
+              "start": 127,
+              "url": "https://t.co/oxilJlVE9k"
+            },
+            {
+              "display_url": "pic.x.com/oxilJlVE9k",
+              "end": 150,
+              "expanded_url": "https://x.com/Bbzv0186/status/2087149157224186073/photo/1",
+              "media_key": "3_2087149152669249536",
+              "start": 127,
+              "url": "https://t.co/oxilJlVE9k"
+            },
+            {
+              "display_url": "pic.x.com/oxilJlVE9k",
+              "end": 150,
+              "expanded_url": "https://x.com/Bbzv0186/status/2087149157224186073/photo/1",
+              "media_key": "3_2087149153738743808",
+              "start": 127,
+              "url": "https://t.co/oxilJlVE9k"
+            },
+            {
+              "display_url": "x.com/paperly_forge/…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/paperly_forge/status/2087053040314654837",
+              "start": 151,
+              "url": "https://t.co/KeKrvDdgvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087149157224186073",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087149152492990464"
+          },
+          {
+            "media_key": "3_2087149152669249536"
+          },
+          {
+            "media_key": "3_2087149153738743808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087053040314654837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安。\n顺便说一下这群sb,人都走了,还要发在墙内炒作,这群评价也是一样。在现实中没啥存在感,看到眼中的“异类”走了,便要在评论区指指点点,来找存在感。\n总结:这发视频的和评论区那帮人在现实中过的不如意,便要把恶意攻击我们这帮少数群体,来找所谓的存在感 https://t.co/oxilJlVE9k https://t.co/KeKrvDdgvh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014293353269997568",
+        "conversation_id": "2087053040314654837",
+        "created_at": "2026-08-11T05:46:35.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087053040314654837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953688493160542208",
+              "start": 5,
+              "username": "SYFSASN"
+            },
+            {
+              "end": 30,
+              "id": "2014293353269997568",
+              "start": 16,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087053040314654837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 13,
+                "id": "1953688493160542208",
+                "start": 5,
+                "username": "SYFSASN"
+              },
+              {
+                "end": 30,
+                "id": "2014293353269997568",
+                "start": 16,
+                "username": "paperly_forge"
+              }
+            ]
+          },
+          "text": "讣告\n我是@SYFSASN，号主@paperly_forge于8月10日23时因家长不支持跨性别，绝望之下服用13g亚硝酸钠和17片思诺思13g氯硝西泮后逝世，享年15岁\n\n我不知道要说什么了，如果……如果她家长能听一句劝她是不是就不会死了，如果我报警再快一点是不是就能活下来了……我真的很后悔，我连她最后一面都没见到……\n\n星星已经走了……我要于8月12日去找她，我要和朋友告别，我已经失去她了，我的人生已经没有意义了，我要去找她，我还得去陪她"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 16868,
+          "like_count": 162,
+          "quote_count": 6,
+          "reply_count": 61,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n我是@SYFSASN，号主@paperly_forge于8月10日23时因家长不支持跨性别，绝望之下服用13g亚硝酸钠和17片思诺思13g氯硝西泮后逝世，享年15岁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "🍥:2026/05/31｜无证含糖｜年龄党｜已炸柜｜Blue Achive｜梓厨｜出厂日期:2012/01/21 l  跨圈小透明 l 向我发送匿名消息https://t.co/Owbtm2xqOM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bbzv",
+                "end": 99,
+                "expanded_url": "https://ngl.link/bbzv",
+                "start": 76,
+                "url": "https://t.co/Owbtm2xqOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainbowTerminal",
+                "end": 23,
+                "expanded_url": "https://t.me/RainbowTerminal",
+                "start": 0,
+                "url": "https://t.co/QcRPwIuPIP"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087149157224186073",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 155,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/QcRPwIuPIP",
+        "username": "Bbzv0186",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2087053106362318966",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 270,
+          "like_count": 1300,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
