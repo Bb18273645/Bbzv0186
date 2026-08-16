@@ -311,6 +311,8 @@ jobs:
           "
       - name: 应用删除清单（清理索引与快照）
         run: python3 apply_deleted_tweets.py full || true
+      - name: 应用手动简介覆盖（profile_override.json）
+        run: python3 apply_profile_override.py || true
       - name: 推送
         run: |
           git config user.name  "github-actions[bot]"
