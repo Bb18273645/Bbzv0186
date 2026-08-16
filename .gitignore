@@ -1,0 +1,6 @@
+node_modules/
+.electron-cache/
+dist/
+.idea/
+*.log
+.gh-token

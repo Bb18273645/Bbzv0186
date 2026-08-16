@@ -15,6 +15,7 @@
 ### 阅读器
 
 前端基于 [白炽阅读器 · IncandescenceReader](https://github.com/sjshb57/IncandescenceReader)。
+桌面版（Electron）源码同样包含在本仓库根目录：`main.js`、`Reader.html`、`fetch_missing_snapshots.js`（AGPL-3.0）。
 
 ---
 
