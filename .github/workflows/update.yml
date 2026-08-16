@@ -88,6 +88,10 @@ jobs:
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
+      - name: 应用删除清单（清理 cdx，防止重新下载已删推文）
+        if: steps.check.outputs.skip == 'false'
+        run: python3 apply_deleted_tweets.py cdx || true
+
       - name: fetch-html
         if: steps.check.outputs.skip == 'false'
         run: |
@@ -305,6 +309,8 @@ jobs:
                   open(p,'w',encoding='utf-8').write(json.dumps(n,ensure_ascii=False,separators=(',',':')))
                   print('removed',len(d)-len(n),'entries from',p)
           "
+      - name: 应用删除清单（清理索引与快照）
+        run: python3 apply_deleted_tweets.py full || true
       - name: 推送
         run: |
           git config user.name  "github-actions[bot]"
