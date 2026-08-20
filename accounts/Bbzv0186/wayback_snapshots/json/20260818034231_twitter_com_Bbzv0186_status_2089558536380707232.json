@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2089413948298637717",
+    "created_at": "2026-08-18T03:42:31.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089558536380707232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598154055141892096",
+          "start": 0,
+          "username": "KirkSassoon3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089558536380707232",
+    "in_reply_to_user_id": "1598154055141892096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089413948298637717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KirkSassoon3 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2089413948298637717",
+        "created_at": "2026-08-18T03:42:31.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089558536380707232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598154055141892096",
+              "start": 0,
+              "username": "KirkSassoon3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089558536380707232",
+        "in_reply_to_user_id": "1598154055141892096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089413948298637717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KirkSassoon3 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598154055141892096",
+        "conversation_id": "2089413948298637717",
+        "created_at": "2026-08-17T18:07:59.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089413948298637717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089413948298637717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好丑…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GuangxiCrossGr…",
+                "end": 23,
+                "expanded_url": "http://t.me/GuangxiCrossGroup",
+                "start": 0,
+                "url": "https://t.co/hdcmf6KsJ7"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089558536380707232",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 246,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/hdcmf6KsJ7",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-01T03:16:34.000Z",
+        "description": "欢迎大家，可以叫我眠眠，03，168/60，极度懒，喜欢自己",
+        "id": "1598154055141892096",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089413948298637717",
+        "name": "失眠失眠🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075392589285454102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598154055141892096/1773157803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083934940727508992/sXqgSvp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 109,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "KirkSassoon3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

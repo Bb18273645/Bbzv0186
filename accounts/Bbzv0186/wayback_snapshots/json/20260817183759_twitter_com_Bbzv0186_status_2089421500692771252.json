@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2089323533000446099",
+    "created_at": "2026-08-17T18:37:59.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089421500692771252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061773740195921920",
+          "start": 0,
+          "username": "Noise_Echo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089421500692771252",
+    "in_reply_to_user_id": "2061773740195921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089323533000446099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noise_Echo8964 赞同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2089323533000446099",
+        "created_at": "2026-08-17T18:37:59.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089421500692771252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "Noise_Echo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089421500692771252",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089323533000446099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noise_Echo8964 赞同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061773740195921920",
+        "conversation_id": "2089323533000446099",
+        "created_at": "2026-08-17T12:08:42.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089323533000446099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089323533000446099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1883,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "体毛好恶心，除了头发，眉毛和眼睫毛以外的体毛都好恶心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GuangxiCrossGr…",
+                "end": 23,
+                "expanded_url": "http://t.me/GuangxiCrossGroup",
+                "start": 0,
+                "url": "https://t.co/hdcmf6KsJ7"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089421500692771252",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 244,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/hdcmf6KsJ7",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "出厂11.08.30 / MtF / 炸柜 / 暂时无法含糖 / 爱听摇滚 / 精卫中 / 身高162  50kg / 意识流写作",
+        "id": "2061773740195921920",
+        "is_identity_verified": false,
+        "location": "反乌托邦",
+        "most_recent_tweet_id": "2089346980040650768",
+        "name": "噪声&回声_Noise&Echo🍥",
+        "pinned_tweet_id": "2087805093395763401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061773740195921920/1780996812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085252915275669504/Kkp34iXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 383,
+          "like_count": 4203,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "Noise_Echo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
