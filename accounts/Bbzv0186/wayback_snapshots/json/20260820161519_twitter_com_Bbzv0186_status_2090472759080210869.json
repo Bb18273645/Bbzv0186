@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "1581676884516950017",
+    "created_at": "2026-08-20T16:15:19.000Z",
+    "display_text_range": [
+      23,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090472759080210869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443631233368420353",
+          "start": 0,
+          "username": "ruifengyang4"
+        },
+        {
+          "end": 22,
+          "id": "1577896987084537856",
+          "start": 14,
+          "username": "6niubi9"
+        },
+        {
+          "end": 33,
+          "id": "1419204447490568195",
+          "start": 23,
+          "username": "xiazaibot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090472759080210869",
+    "in_reply_to_user_id": "1443631233368420353",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1598189425975926784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruifengyang4 @6niubi9 @xiazaibot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1598189423551688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fi3o0CqVsAAs96i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "1581676884516950017",
+        "created_at": "2026-08-20T16:15:19.000Z",
+        "display_text_range": [
+          23,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090472759080210869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443631233368420353",
+              "start": 0,
+              "username": "ruifengyang4"
+            },
+            {
+              "end": 22,
+              "id": "1577896987084537856",
+              "start": 14,
+              "username": "6niubi9"
+            },
+            {
+              "end": 33,
+              "id": "1419204447490568195",
+              "start": 23,
+              "username": "xiazaibot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090472759080210869",
+        "in_reply_to_user_id": "1443631233368420353",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1598189425975926784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruifengyang4 @6niubi9 @xiazaibot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1598189423551688704"
+          ]
+        },
+        "author_id": "1443631233368420353",
+        "conversation_id": "1581676884516950017",
+        "created_at": "2022-12-01T05:37:06.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2022-12-01T06:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1598189425975926784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577896987084537856",
+              "start": 0,
+              "username": "6niubi9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmK99PJn0l",
+              "end": 39,
+              "expanded_url": "https://x.com/ruifengyang4/status/1598189425975926784/photo/1",
+              "media_key": "3_1598189423551688704",
+              "start": 16,
+              "url": "https://t.co/vmK99PJn0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1598189425975926784",
+        "in_reply_to_user_id": "1577896987084537856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1598189423551688704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 0,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 88,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1581676884516950017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6niubi9 谁有这个的图 https://t.co/vmK99PJn0l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GuangxiCrossGr…",
+                "end": 23,
+                "expanded_url": "http://t.me/GuangxiCrossGroup",
+                "start": 0,
+                "url": "https://t.co/hdcmf6KsJ7"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090472759080210869",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 259,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/hdcmf6KsJ7",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T17:38:09.000Z",
+        "description": "",
+        "id": "1443631233368420353",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1643639074937511936",
+        "name": "BlissY",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506981801423937538/XpiZu32R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 313,
+          "like_count": 1134,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "ruifengyang4",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-06T05:42:26.000Z",
+        "description": "",
+        "id": "1577896987084537856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2010742307889525134",
+        "name": "朱牛逼",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583169640376606725/u6oCuLFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13706,
+          "following_count": 36,
+          "like_count": 5,
+          "listed_count": 24,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "6niubi9",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-25T07:55:01.000Z",
+        "description": "我是不知疲倦的機器人，提到我的ID，我會3分鐘內給你下載鏈接。 Mention me in any tweet that contains a video and will get a reply with download link in a few minutes. Powered by @zuolatech",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "zuolatech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "down.zuo.la",
+                "end": 23,
+                "expanded_url": "https://down.zuo.la/",
+                "start": 0,
+                "url": "https://t.co/JS4a2tzPo4"
+              }
+            ]
+          }
+        },
+        "id": "1419204447490568195",
+        "is_identity_verified": false,
+        "location": "台灣🇹🇼",
+        "most_recent_tweet_id": "2062457135515210031",
+        "name": "下载视频机器人🤖",
+        "pinned_tweet_id": "1419345884379181061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419204447490568195/1627200783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420417959604854793/gASkl8FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209001,
+          "following_count": 20722,
+          "like_count": 4,
+          "listed_count": 208,
+          "media_count": 23,
+          "tweet_count": 376273
+        },
+        "url": "https://t.co/JS4a2tzPo4",
+        "username": "xiazaibot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
