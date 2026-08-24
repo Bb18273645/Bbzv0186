@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2091079734746632204",
+    "created_at": "2026-08-22T09:57:05.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091102348722782304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091102348722782304",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091079734746632204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 还有ba的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2091079734746632204",
+        "created_at": "2026-08-22T09:57:05.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091102348722782304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091102348722782304",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091079734746632204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 还有ba的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2091079734746632204",
+        "created_at": "2026-08-22T08:27:13.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091079734746632204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091079734746632204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男人一辈子只流这几次眼泪\n1，诸葛亮病葬五丈原\n2，麟麟七已关闭AI分身\n3，晚安，罗德\n4，红石国宣告灭亡\n5，迪迦救戴拿而死\n6，猴子币的消失\n7，网页禁止访问\n8，至亲至爱离世\n9，小卖部关门了\n10，金铁兽启动后背隐藏能源\n11，妈妈叫房主吃饭了，关闭了房间\n12，网红厨师长教出了配方\n13，圆盘是生物\n14，他是男的\n15，niko圆梦科隆major\n16，攻击物是水滴\n17，钟离假死\n18，僵王一车砸六瓜\n19，鲤鱼ACE暂时停止更新\n20，回味妈妈小时候熬的油渣\n21，使命单挑口嗨后发现对面会开户\n22，总裁直架对面威龙虎墩砸脚下\n23，出理想国没六格保险\n24，科比坠机了\n25，作者NTR作品标纯爱\n26，女主是男的\n27，无法访问404\n28，女主不仅是个扶她 格调比男主还大\n29，快出来的时候断网了\n30，晚安，祖国人\n31，穿越没系统\n32，78断掉 黄金30秒没接回去\n33，迪迦没打过加坦杰厄\n34，老师叫你去办公室\n35，家长叫你跟他谈谈\n36，君哥回老家了，回了他的豆角架子\n37，我的世界皓宸原创了\n38，之前没送二格保险的时候出机密\n39，我不做成吉思鸡了\n40，光头强有钱没钱回家过年\n41，钟离假死\n42，卡拉彼丘似了喵\n43，闪大哥梦碎圣杯战争\n44，致那再也回不去的时光\n45，22分钟野狗成圣\n46，\n47，甲贺忍蛙黄金手里剑\n48，两熊一人看烟花\n49，干枯的玫瑰唤醒了自卑的王\n50，冰红茶涨价一元\n51，吕布董卓苦命鸳鸯\n52，散兵三度遭受背叛\n53，白面具脱手抓被删除\n54，五条悟败给宿傩\n55，小舞献祭\n56，御梦子转行当上女主播\n57，王者首冲没选赵云\n58，打火机被别人顺了\n59，杜兰特踩线三分\n60，dank1ng无缘贴纸空悲切\n61，紫狗瞪眼遭删除\n62，磊哥喵喵来接我了\n63，下载的steam是假的\n64，打游戏没喷过对面\n65，保底歪了\n66，服务器我不会再来了龙蛋留给你\n67，贝爷长胡子不再冒险\n68，李宗伟终身没有世界冠军\n69，泡面没有调料包\n70，刚出生被医生打\n71，5秒对于一个父亲来说太短了\n72，游戏打一半手机没电\n73，柯洁输阿尔法狗\n74，盾狗撤离失败\n75，波奇世萌三连亚\n76，22年梅西圆梦卡塔尔\n77，妲己变成灵宝\n78，梦泪无兵线偷塔\n79，买的显卡放不进机箱\n80，蔚蓝档案卡池机制改了\n81，船长是个给\n82，要开学了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1201,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人一辈子只流这几次眼泪\n1，诸葛亮病葬五丈原\n2，麟麟七已关闭AI分身\n3，晚安，罗德\n4，红石国宣告灭亡\n5，迪迦救戴拿而死\n6，猴子币的消失\n7，网页禁止访问\n8，至亲至爱离世\n9，小卖部关门了\n10，金铁兽启动后背隐藏能源\n11，妈妈叫房主吃饭了，关闭了房间\n12，网红厨师长教出了配方\n13，圆盘是生物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv-xinghuisama-blogs.vercel.app",
+                "end": 23,
+                "expanded_url": "https://bbzv-xinghuisama-blogs.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/CXchebqUFV"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091102348722782304",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 279,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/CXchebqUFV",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2091097611797434631",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 1312,
+          "like_count": 11678,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 5100
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

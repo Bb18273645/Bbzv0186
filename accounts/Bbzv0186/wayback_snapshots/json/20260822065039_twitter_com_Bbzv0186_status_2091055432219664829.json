@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2091035143758921910",
+    "created_at": "2026-08-22T06:50:39.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091055432219664829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827293756661571584",
+          "start": 0,
+          "username": "aizhenxunjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091055432219664829",
+    "in_reply_to_user_id": "1827293756661571584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091035143758921910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizhenxunjiang 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2091034883296727040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTZJcfaEAAhjbm.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2091035143758921910",
+        "created_at": "2026-08-22T06:50:39.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091055432219664829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827293756661571584",
+              "start": 0,
+              "username": "aizhenxunjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091055432219664829",
+        "in_reply_to_user_id": "1827293756661571584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091035143758921910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizhenxunjiang 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091034883296727040"
+          ]
+        },
+        "author_id": "1827293756661571584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091035143758921910",
+        "created_at": "2026-08-22T05:30:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091035143758921910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZpsLvt4Qb",
+              "end": 37,
+              "expanded_url": "https://x.com/aizhenxunjiang/status/2091035143758921910/photo/1",
+              "media_key": "3_2091034883296727040",
+              "start": 14,
+              "url": "https://t.co/OZpsLvt4Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091035143758921910",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091034883296727040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 420,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿 还有两天就可以结束了 https://t.co/OZpsLvt4Qb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv-xinghuisama-blogs.vercel.app",
+                "end": 23,
+                "expanded_url": "https://bbzv-xinghuisama-blogs.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/CXchebqUFV"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091055432219664829",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 277,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/CXchebqUFV",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜07｜istp｜互fo｜坐标南京｜TG@yuxiyaokuaileo｜\n老婆@chenyuxi5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "chenyuxi5201314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxiyaokuaileo",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxiyaokuaileo",
+                "start": 0,
+                "url": "https://t.co/5cUpsleN2T"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2091044997911175298",
+        "name": "雨汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046170676864934354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827293756661571584/1744150029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1023,
+          "like_count": 381,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/5cUpsleN2T",
+        "username": "aizhenxunjiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

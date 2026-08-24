@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2090952280636039300",
+    "created_at": "2026-08-22T09:35:50.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091097000452165864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088519536068943872",
+          "start": 0,
+          "username": "yamazaki_neo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091097000452165864",
+    "in_reply_to_user_id": "2088519536068943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090952280636039300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazaki_neo 翻车了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2090952280636039300",
+        "created_at": "2026-08-22T09:35:50.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091097000452165864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088519536068943872",
+              "start": 0,
+              "username": "yamazaki_neo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091097000452165864",
+        "in_reply_to_user_id": "2088519536068943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090952280636039300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazaki_neo 翻车了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088519536068943872",
+        "conversation_id": "2090952280636039300",
+        "created_at": "2026-08-22T00:00:46.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090952280636039300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_digit2/status/2090674139363233893",
+              "start": 13,
+              "url": "https://t.co/krNoMBaWya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090952280636039300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得我是跨性别吗？🐱 https://t.co/krNoMBaWya"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv-xinghuisama-blogs.vercel.app",
+                "end": 23,
+                "expanded_url": "https://bbzv-xinghuisama-blogs.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/CXchebqUFV"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091097000452165864",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 277,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/CXchebqUFV",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T06:57:34.000Z",
+        "description": "主人：@yamazakiisuzu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "yamazakiisuzu"
+              }
+            ]
+          }
+        },
+        "id": "2088519536068943872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091092776238690620",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088519536068943872/1786777190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 74,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "yamazaki_neo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
