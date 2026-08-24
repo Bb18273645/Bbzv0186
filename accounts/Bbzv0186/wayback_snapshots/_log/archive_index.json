@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-24T15:48:13",
+  "last_updated": "2026-08-24T15:48:29",
   "html": {
     "https://web.archive.org/web/20260529030006if_/https://twitter.com/Bbzv0186/status/2060194443471495197": {
       "status": "done",
@@ -1849,16 +1849,18 @@
       "last_updated": "2026-08-23T15:30:30"
     },
     "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822065039_twitter_com_Bbzv0186_status_2091055432219664829.json"
-      ]
+      ],
+      "last_updated": "2026-08-24T15:48:29"
     },
     "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822093550_twitter_com_Bbzv0186_status_2091097000452165864.json"
-      ]
+      ],
+      "last_updated": "2026-08-24T15:48:29"
     }
   },
   "media": {
@@ -3410,7 +3412,7 @@
       "last_updated": "2026-08-23T15:30:30"
     },
     "20260822065039_twitter_com_Bbzv0186_status_2091055432219664829.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQTZJcfaEAAhjbm.jpg"
@@ -3421,10 +3423,10 @@
           "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-24T15:48:10"
+      "last_updated": "2026-08-24T15:48:29"
     },
     "20260822093550_twitter_com_Bbzv0186_status_2091097000452165864.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3433,7 +3435,7 @@
           "https://pbs.twimg.com/profile_images/2088520726173409280/Y9UN5giF_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-24T15:48:10"
+      "last_updated": "2026-08-24T15:48:29"
     },
     "20260822095705_twitter_com_Bbzv0186_status_2091102348722782304.json": {
       "status": "done",
