@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2092188722246943095",
+    "created_at": "2026-08-25T13:00:34.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092235685881389261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999059927650930688",
+          "start": 0,
+          "username": "LightSTAR_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092235685881389261",
+    "in_reply_to_user_id": "1999059927650930688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092188722246943095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightSTAR_qwq 在qq群刷过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2092188694308597760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjyiFdaMAA6sA0.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1655,
+        "media_key": "3_2092188703678713856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjyioXa0AAricj.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2092188712776130560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjyjKQaYAARgPG.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2092188722246943095",
+        "created_at": "2026-08-25T13:00:34.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092235685881389261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999059927650930688",
+              "start": 0,
+              "username": "LightSTAR_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092235685881389261",
+        "in_reply_to_user_id": "1999059927650930688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092188722246943095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightSTAR_qwq 在qq群刷过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092188694308597760",
+            "3_2092188703678713856",
+            "3_2092188712776130560"
+          ]
+        },
+        "author_id": "1999059927650930688",
+        "conversation_id": "2092188722246943095",
+        "created_at": "2026-08-25T09:53:57.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092188722246943095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEBY8gZTCa",
+              "end": 35,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2092188722246943095/photo/1",
+              "media_key": "3_2092188694308597760",
+              "start": 12,
+              "url": "https://t.co/aEBY8gZTCa"
+            },
+            {
+              "display_url": "pic.x.com/aEBY8gZTCa",
+              "end": 35,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2092188722246943095/photo/1",
+              "media_key": "3_2092188703678713856",
+              "start": 12,
+              "url": "https://t.co/aEBY8gZTCa"
+            },
+            {
+              "display_url": "pic.x.com/aEBY8gZTCa",
+              "end": 35,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2092188722246943095/photo/1",
+              "media_key": "3_2092188712776130560",
+              "start": 12,
+              "url": "https://t.co/aEBY8gZTCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092188722246943095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092188694308597760"
+          },
+          {
+            "media_key": "3_2092188703678713856"
+          },
+          {
+            "media_key": "3_2092188712776130560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 431,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我成为mtf的经历 https://t.co/aEBY8gZTCa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092235685881389261",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 315,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 重焦重抑 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 |  对象@520maodou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "520maodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs7tgx"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2092220472935240063",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999059927650930688/1777743465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 342,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/ghmbUs7tgx",
+        "username": "LightSTAR_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

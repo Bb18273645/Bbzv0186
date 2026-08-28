@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2091964901434798338",
+    "created_at": "2026-08-25T02:26:32.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092076126176968939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626834948366733313",
+          "start": 0,
+          "username": "Aurora_zero_q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092076126176968939",
+    "in_reply_to_user_id": "1626834948366733313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091964901434798338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurora_zero_q 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2091964901434798338",
+        "created_at": "2026-08-25T02:26:32.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092076126176968939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626834948366733313",
+              "start": 0,
+              "username": "Aurora_zero_q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092076126176968939",
+        "in_reply_to_user_id": "1626834948366733313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091964901434798338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurora_zero_q 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626834948366733313",
+        "conversation_id": "2091964901434798338",
+        "created_at": "2026-08-24T19:04:33.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091964901434798338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091964901434798338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6728,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 113,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是凌灵的生日呢\n可惜几乎没人记得"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092076126176968939",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 306,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-18T06:44:24.000Z",
+        "description": "想变得可爱qwq 欢迎私信和交朋友哦...\n我这一生如绿豆冰...\n二次元同好小可爱可以找我要q号喵（看情况加喵） 低强度刷推",
+        "id": "1626834948366733313",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091964901434798338",
+        "name": "凌灵Aurora",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626834948366733313/1740120612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857597231341428736/zchZG71Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 722,
+          "like_count": 4106,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "Aurora_zero_q",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

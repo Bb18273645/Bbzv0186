@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2092225199005671624",
+    "created_at": "2026-08-25T12:18:53.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092225199005671624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hwanxing9/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hwanxing9/status/2092111299618488803",
+          "start": 24,
+          "url": "https://t.co/dKa5BmdNhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092225199005671624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092111299618488803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是一只药娘～嘿嘿 我是药娘～我是药娘 好耶！ https://t.co/dKa5BmdNhI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2092225199005671624",
+        "created_at": "2026-08-25T12:18:53.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092225199005671624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hwanxing9/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hwanxing9/status/2092111299618488803",
+              "start": 24,
+              "url": "https://t.co/dKa5BmdNhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092225199005671624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092111299618488803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一只药娘～嘿嘿 我是药娘～我是药娘 好耶！ https://t.co/dKa5BmdNhI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022798586342174721",
+        "conversation_id": "2092111299618488803",
+        "created_at": "2026-08-25T04:46:18.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092111299618488803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YIYUNxyun/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/YIYUNxyun/status/2092096114740560053",
+              "start": 24,
+              "url": "https://t.co/ZX9S4GVVyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092111299618488803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092096114740560053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一只药娘～嘿嘿 我是药娘～我是药娘 好耶！ https://t.co/ZX9S4GVVyJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092225199005671624",
+        "name": "Bbzv🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 313,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T22:22:28.000Z",
+        "description": "小透明",
+        "id": "2022798586342174721",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092162364535984472",
+        "name": "绾星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022798586342174721/1774962733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079139133591801856/1R1g5Vtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 319,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "hwanxing9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
