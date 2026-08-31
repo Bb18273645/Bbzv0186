@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2093936431118872890",
+    "created_at": "2026-08-30T06:53:51.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T07:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093955339397800346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991306862038544384",
+          "start": 0,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093955339397800346",
+    "in_reply_to_user_id": "1991306862038544384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093936431118872890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanda12300 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2093936431118872890",
+        "created_at": "2026-08-30T06:53:51.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093955339397800346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093955339397800346",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093936431118872890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2093936431118872890",
+        "created_at": "2026-08-30T05:38:43.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093936431118872890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093936431118872890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到好看的同类就会自卑..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093955339397800346",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 377,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+天残党/家长党MtF，已出柜\n轻度抑郁+焦虑+强迫，正在攒钱SRS\n出厂日期：2006.10.26 HRT时间：2026.4.1\n欢迎同类互fo，发私信可能来不及回复，抱歉喵\n恋人：@Asexuality94927 永远爱你\n我的GitHub(正在建设)：https://t.co/kdNOs6dwBr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Asexuality94927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 155,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 132,
+                "url": "https://t.co/kdNOs6dwBr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wanda123001",
+                "end": 23,
+                "expanded_url": "http://t.me/wanda123001",
+                "start": 0,
+                "url": "https://t.co/naMzEL3fAG"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093945055903932759",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2092199790276669858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091643930781847552/EqPfK0A7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1060,
+          "like_count": 558,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/naMzEL3fAG",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
