@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095893956043436032"
+      ]
+    },
+    "author_id": "1945767299912511488",
+    "conversation_id": "2095893962880078222",
+    "created_at": "2026-09-04T15:17:15.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095893962880078222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SzMbyAGuE2",
+          "end": 32,
+          "expanded_url": "https://x.com/Bbzv0186/status/2095893962880078222/photo/1",
+          "media_key": "3_2095893956043436032",
+          "start": 9,
+          "url": "https://t.co/SzMbyAGuE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095893962880078222",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095893956043436032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来,盐这么便利 https://t.co/SzMbyAGuE2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2198,
+        "media_key": "3_2095893956043436032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYcctDbcAAu5Tt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095893956043436032"
+          ]
+        },
+        "author_id": "1945767299912511488",
+        "conversation_id": "2095893962880078222",
+        "created_at": "2026-09-04T15:17:15.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095893962880078222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SzMbyAGuE2",
+              "end": 32,
+              "expanded_url": "https://x.com/Bbzv0186/status/2095893962880078222/photo/1",
+              "media_key": "3_2095893956043436032",
+              "start": 9,
+              "url": "https://t.co/SzMbyAGuE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095893962880078222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095893956043436032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来,盐这么便利 https://t.co/SzMbyAGuE2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095893962880078222",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 386,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
