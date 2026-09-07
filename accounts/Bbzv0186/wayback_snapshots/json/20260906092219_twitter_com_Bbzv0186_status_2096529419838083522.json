@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2096529419838083522",
+    "created_at": "2026-09-06T09:22:19.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096529419838083522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1991306862038544384",
+          "start": 3,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096529419838083522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096525139391214012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wanda12300: 好啦好啦，我没事了\n现在在ICU里躺着，可惜不能去拍照希望所有小药娘都不要吃盐\n真的超级超级痛苦的，加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2096529419838083522",
+        "created_at": "2026-09-06T09:22:19.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096529419838083522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1991306862038544384",
+              "start": 3,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096529419838083522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096525139391214012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wanda12300: 好啦好啦，我没事了\n现在在ICU里躺着，可惜不能去拍照希望所有小药娘都不要吃盐\n真的超级超级痛苦的，加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2096525139391214012",
+        "created_at": "2026-09-06T09:05:19.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096525139391214012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096525139391214012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好啦好啦，我没事了\n现在在ICU里躺着，可惜不能去拍照希望所有小药娘都不要吃盐\n真的超级超级痛苦的，加油"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096529419838083522",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 386,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+超大只天残党/家长党MtF，已出柜，不pass，攒钱SRS中\n出厂日期：2006.10.26 HRT时间：2026.4.1\n欢迎同类互fo，私信可能来不及回复，抱歉喵\nGitHub(正在建设)：https://t.co/kdNOs6dwBr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 124,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 101,
+                "url": "https://t.co/kdNOs6dwBr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wanda123001",
+                "end": 23,
+                "expanded_url": "http://t.me/wanda123001",
+                "start": 0,
+                "url": "https://t.co/naMzEL3fAG"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096525139391214012",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2092199790276669858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091643930781847552/EqPfK0A7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1143,
+          "like_count": 758,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/naMzEL3fAG",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
