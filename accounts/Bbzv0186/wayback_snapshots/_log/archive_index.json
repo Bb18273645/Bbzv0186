@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-10T18:17:24",
+  "last_updated": "2026-09-11T18:20:50",
   "html": {
     "https://web.archive.org/web/20260529030006if_/https://twitter.com/Bbzv0186/status/2060194443471495197": {
       "status": "done",
@@ -615,36 +615,36 @@
       "referenced_by": [
         "20250808145111_twitter_com_Bbzv0186_status_1953831359257985202.json"
       ],
-      "last_updated": "2026-09-10T18:16:37",
+      "last_updated": "2026-09-11T18:20:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250808145111/https://pbs.twimg.com/media/GqTlpvmbAAEiSrW.jpg",
-      "miss_count": 78
+      "miss_count": 79
     },
     "https://pbs.twimg.com/media/GqTlpviaEAAbBLa.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20250808145111_twitter_com_Bbzv0186_status_1953831359257985202.json"
       ],
-      "last_updated": "2026-09-10T18:16:41",
+      "last_updated": "2026-09-11T18:20:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250808145111/https://pbs.twimg.com/media/GqTlpviaEAAbBLa.jpg",
-      "miss_count": 88
+      "miss_count": 89
     },
     "https://pbs.twimg.com/media/GqTlpvlaQAAuP7L.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250808145111_twitter_com_Bbzv0186_status_1953831359257985202.json"
       ],
-      "last_updated": "2026-09-10T18:16:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808145111/https://pbs.twimg.com/media/GqTlpvlaQAAuP7L.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f080d803c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 91
+      "last_updated": "2026-09-11T18:20:46",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250808145111/https://pbs.twimg.com/media/GqTlpvlaQAAuP7L.jpg",
+      "miss_count": 92
     },
     "https://pbs.twimg.com/media/GqTlpvibAAIB80-.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250808145111_twitter_com_Bbzv0186_status_1953831359257985202.json"
       ],
-      "last_updated": "2026-09-10T18:16:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250808145111/https://pbs.twimg.com/media/GqTlpvibAAIB80-.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f080d128620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 92
+      "last_updated": "2026-09-11T18:20:49",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250808145111/https://pbs.twimg.com/media/GqTlpvibAAIB80-.jpg",
+      "miss_count": 93
     },
     "https://pbs.twimg.com/media/G1mTJ_La4AAjP6p.jpg": {
       "status": "failed_all",
@@ -2276,7 +2276,7 @@
   },
   "media": {
     "20250808145111_twitter_com_Bbzv0186_status_1953831359257985202.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GqTlpvmbAAEiSrW.jpg",
@@ -2290,7 +2290,7 @@
           "https://pbs.twimg.com/profile_images/1901911604675162112/OutwkBXk_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-10T18:17:11",
+      "last_updated": "2026-09-11T18:20:50",
       "miss_count": 90
     },
     "20251026042419_twitter_com_Bbzv0186_status_1982302244856070148.json": {
