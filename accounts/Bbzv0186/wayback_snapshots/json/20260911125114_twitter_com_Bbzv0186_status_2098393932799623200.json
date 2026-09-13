@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2096504540027912638",
+    "created_at": "2026-09-11T12:51:14.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098393932799623200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2081779995924697089",
+          "start": 0,
+          "username": "u0lpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098393932799623200",
+    "in_reply_to_user_id": "2081779995924697089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096757010058645560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u0lpk 顺性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2096504540027912638",
+        "created_at": "2026-09-11T12:51:14.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098393932799623200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2081779995924697089",
+              "start": 0,
+              "username": "u0lpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098393932799623200",
+        "in_reply_to_user_id": "2081779995924697089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096757010058645560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u0lpk 顺性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081779995924697089",
+        "conversation_id": "2096504540027912638",
+        "created_at": "2026-09-07T00:26:41.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096757010058645560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945767299912511488",
+              "start": 0,
+              "username": "Bbzv0186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096757010058645560",
+        "in_reply_to_user_id": "1945767299912511488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096504540027912638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bbzv0186 顺男顺女是啥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098393932799623200",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 386,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T16:36:42.000Z",
+        "description": "不🈷️但是你要和我近也不🈷️",
+        "id": "2081779995924697089",
+        "is_identity_verified": false,
+        "location": "唔",
+        "most_recent_tweet_id": "2096757010058645560",
+        "name": "言语",
+        "pinned_tweet_id": "2090122783976288675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081779995924697089/1785342423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082502967601831937/--Ql_ahp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "u0lpk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
