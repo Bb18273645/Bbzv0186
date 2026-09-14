@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2098639899763380373",
+    "created_at": "2026-09-12T15:34:05.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098797303457042697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829017242140585985",
+          "start": 0,
+          "username": "ERQW229930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098797303457042697",
+    "in_reply_to_user_id": "1829017242140585985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098739534859317663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ERQW229930 模拟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2098639899763380373",
+        "created_at": "2026-09-12T15:34:05.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098797303457042697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829017242140585985",
+              "start": 0,
+              "username": "ERQW229930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098797303457042697",
+        "in_reply_to_user_id": "1829017242140585985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098739534859317663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ERQW229930 模拟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829017242140585985",
+        "conversation_id": "2098639899763380373",
+        "created_at": "2026-09-12T11:44:32.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098739534859317663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945767299912511488",
+              "start": 0,
+              "username": "Bbzv0186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098739534859317663",
+        "in_reply_to_user_id": "1945767299912511488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098639899763380373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bbzv0186 雌激素能居家查了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098797303457042697",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 392,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T04:46:50.000Z",
+        "description": "",
+        "id": "1829017242140585985",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098739534859317663",
+        "name": "ER QW",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967533620656259072/pYFypVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "ERQW229930",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
