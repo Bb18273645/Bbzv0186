@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2102081511113830756",
+    "created_at": "2026-09-22T05:18:29.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102266261673844988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1444165451789922307",
+          "start": 0,
+          "username": "AiYuPlus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102266261673844988",
+    "in_reply_to_user_id": "1444165451789922307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102081511113830756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiYuPlus 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102081502809034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwX_U_aEAAKyN5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2102081511113830756",
+        "created_at": "2026-09-22T05:18:29.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102266261673844988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1444165451789922307",
+              "start": 0,
+              "username": "AiYuPlus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102266261673844988",
+        "in_reply_to_user_id": "1444165451789922307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102081511113830756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiYuPlus 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102081502809034752"
+          ]
+        },
+        "author_id": "1444165451789922307",
+        "conversation_id": "2102081511113830756",
+        "created_at": "2026-09-21T17:04:21.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102081511113830756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MudywcoxRS",
+              "end": 33,
+              "expanded_url": "https://x.com/AiYuPlus/status/2102081511113830756/photo/1",
+              "media_key": "3_2102081502809034752",
+              "start": 10,
+              "url": "https://t.co/MudywcoxRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102081511113830756",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102081502809034752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1761,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两千多天了，终于🥹 https://t.co/MudywcoxRS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102266261673844988",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 445,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-02T05:01:07.000Z",
+        "description": "广告位招租中",
+        "id": "1444165451789922307",
+        "is_identity_verified": false,
+        "location": "Bunkyo-ku, Tokyo",
+        "most_recent_tweet_id": "2102081511113830756",
+        "name": "艾俞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444165451789922307/1713263089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059480731588628481/CjqGUzj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 482,
+          "like_count": 10415,
+          "listed_count": 14,
+          "media_count": 401,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "AiYuPlus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

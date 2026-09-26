@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2102088142014791816",
+    "created_at": "2026-09-22T01:40:30.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102211404539592854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095883239982534657",
+          "start": 0,
+          "username": "StrawMono_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102211404539592854",
+    "in_reply_to_user_id": "2095883239982534657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102088142014791816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_001 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2102088142014791816",
+        "created_at": "2026-09-22T01:40:30.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102211404539592854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095883239982534657",
+              "start": 0,
+              "username": "StrawMono_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102211404539592854",
+        "in_reply_to_user_id": "2095883239982534657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102088142014791816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_001 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095883239982534657",
+        "conversation_id": "2102088142014791816",
+        "created_at": "2026-09-21T17:30:42.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102088142014791816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102088142014791816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1778,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凿…凿了1个多…多小时……\n啊啊唔……前高了呜……啊……\n主人…真是厉害呢…能连续凿我1个多小时……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102211404539592854",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 445,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T14:35:45.000Z",
+        "description": "前世@StrawMono_\nmtf / hrt 26.08.06 / 无证含糖 / 家长党 / 不od不zc不键证 / 心理委员喵，随时欢迎来倾诉\n最爱的老公@H1kar1_KNO3\n\n匿名提问 https://t.co/naLX6dPWm0\n群组 Mono酱的樱花小镇 http://t.co/fhmUptWCxj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "StrawMono_"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "H1kar1_KNO3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/strawmono",
+                "end": 121,
+                "expanded_url": "http://ngl.link/strawmono",
+                "start": 98,
+                "url": "https://t.co/naLX6dPWm0"
+              },
+              {
+                "display_url": "t.me/MonoTransTown",
+                "end": 158,
+                "expanded_url": "http://t.me/MonoTransTown",
+                "start": 136,
+                "url": "http://t.co/fhmUptWCxj"
+              }
+            ]
+          }
+        },
+        "id": "2095883239982534657",
+        "is_identity_verified": false,
+        "location": "t.me/StrawMono",
+        "most_recent_tweet_id": "2102110269241762195",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥(二代目)",
+        "pinned_tweet_id": "2097354273860534535",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095883239982534657/1788533025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095883636847554560/jpKQhp6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 192,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "StrawMono_001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
