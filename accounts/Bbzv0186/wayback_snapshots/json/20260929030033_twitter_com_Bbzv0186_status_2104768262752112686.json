@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2104768262752112686",
+    "created_at": "2026-09-29T03:00:33.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T04:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104768262752112686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lckmtfdesu/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/lckmtfdesu/status/2104419119177068667",
+          "start": 17,
+          "url": "https://t.co/wlVOwJBmOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104768262752112686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104419119177068667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为\n什\n么\n没\n人\n给我\n配了🤔 https://t.co/wlVOwJBmOW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2104768262752112686",
+        "created_at": "2026-09-29T03:00:33.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104768262752112686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lckmtfdesu/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lckmtfdesu/status/2104419119177068667",
+              "start": 17,
+              "url": "https://t.co/wlVOwJBmOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104768262752112686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104419119177068667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为\n什\n么\n没\n人\n给我\n配了🤔 https://t.co/wlVOwJBmOW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2104419119177068667",
+        "created_at": "2026-09-28T03:53:10.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104419119177068667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshino994/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hoshino994/status/2104193769298096633",
+              "start": 17,
+              "url": "https://t.co/zs7Eqtt0nS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104419119177068667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 830,
+          "like_count": 29,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104193769298096633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为\n什\n么\n没\n人\n给我\n配了🤔 https://t.co/zs7Eqtt0nS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104768262752112686",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 490,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2104723343656288261",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 1559,
+          "like_count": 7996,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3095
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
