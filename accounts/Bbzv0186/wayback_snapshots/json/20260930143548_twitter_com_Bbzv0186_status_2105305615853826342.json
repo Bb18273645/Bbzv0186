@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2105305615853826342",
+    "created_at": "2026-09-30T14:35:48.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105305615853826342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qmjy02/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qmjy02/status/2104967313246335399",
+          "start": 12,
+          "url": "https://t.co/VF4hxJKRBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105305615853826342",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104967313246335399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和睾丸不共戴天😡😡😡 https://t.co/VF4hxJKRBd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2105305615853826342",
+        "created_at": "2026-09-30T14:35:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105305615853826342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qmjy02/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qmjy02/status/2104967313246335399",
+              "start": 12,
+              "url": "https://t.co/VF4hxJKRBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105305615853826342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104967313246335399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和睾丸不共戴天😡😡😡 https://t.co/VF4hxJKRBd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060683199739764736",
+        "conversation_id": "2104967313246335399",
+        "created_at": "2026-09-29T16:11:30.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104967313246335399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luna4rzd/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Luna4rzd/status/2104474960815407272",
+              "start": 12,
+              "url": "https://t.co/IOCKv99J1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104967313246335399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1061,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104474960815407272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和睾丸不共戴天😡😡😡 https://t.co/IOCKv99J1N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105305615853826342",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 511,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T11:23:02.000Z",
+        "description": "mtf｜同类互fo｜出厂日期：2009.10.30｜INFP｜双性恋｜hrt：2026.09.17｜我们活着，就是对恶意的反抗！｜中度抑郁｜轻度焦虑｜有证有糖，但自行hrt（未成年不给开证明）",
+        "id": "2060683199739764736",
+        "is_identity_verified": false,
+        "location": "Guangxi",
+        "most_recent_tweet_id": "2104969499774792158",
+        "name": "芊茗静语🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060683199739764736/1787121239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089870575573573632/K0YaUYme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 86,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "qmjy02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
