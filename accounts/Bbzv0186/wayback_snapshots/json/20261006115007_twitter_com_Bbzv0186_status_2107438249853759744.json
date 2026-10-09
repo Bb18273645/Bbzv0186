@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2107336548396228660",
+    "created_at": "2026-10-06T11:50:07.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107438249853759744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953488617151832064",
+          "start": 0,
+          "username": "Dxcksaus"
+        },
+        {
+          "end": 25,
+          "id": "1794306281572118528",
+          "start": 10,
+          "username": "mikumi_huihui4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107438249853759744",
+    "in_reply_to_user_id": "1953488617151832064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107356844088058327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dxcksaus @mikumi_huihui4 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2107336548396228660",
+        "created_at": "2026-10-06T11:50:07.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107438249853759744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953488617151832064",
+              "start": 0,
+              "username": "Dxcksaus"
+            },
+            {
+              "end": 25,
+              "id": "1794306281572118528",
+              "start": 10,
+              "username": "mikumi_huihui4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107438249853759744",
+        "in_reply_to_user_id": "1953488617151832064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107356844088058327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dxcksaus @mikumi_huihui4 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953488617151832064",
+        "conversation_id": "2107336548396228660",
+        "created_at": "2026-10-06T06:26:39.000Z",
+        "display_text_range": [
+          16,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107356844088058327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "mikumi_huihui4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107356844088058327",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107336548396228660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumi_huihui4 我也想被查！！！（发情ing...）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107438249853759744",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 537,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T16:09:32.000Z",
+        "description": "2010 | MtF🍥🏳️‍⚧️ | DIY | 重度社恐 |hrt: 26•9•12 | 不割不o | 主观唯心主义 | 不鉴证 | 电子噪声爱好者 |p主、曲师(艺名Dxcksaus)\n开学不常在线，消息可能不能及时查看\n已进入濒死状态\n冲1000fo中.100%互fo,想找同类玩",
+        "id": "1953488617151832064",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2107427659127115931",
+        "name": "Yuta醬🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953488617151832064/1788580583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096085007106514944/uThsr2TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 804,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "Dxcksaus",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "is_identity_verified": false,
+        "location": "广东韶关",
+        "most_recent_tweet_id": "2107430753269379303",
+        "name": "惠惠🏳️‍⚧️(糖🍥商)（中二病也要mtf）",
+        "pinned_tweet_id": "2095890884730757256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794306281572118528/1790743722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105157646592671744/fH-jJV3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2582,
+          "following_count": 173,
+          "like_count": 249,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/mhMUnF6GNe",
+        "username": "mikumi_huihui4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
