@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-13T20:35:20",
+  "last_updated": "2026-10-13T20:35:37",
   "html": {
     "https://web.archive.org/web/20260529030006if_/https://twitter.com/Bbzv0186/status/2060194443471495197": {
       "status": "done",
@@ -1702,10 +1702,13 @@
       "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2108562273107324928/vid/avc1/720x1280/MN0HXWLqdZEtZBR0.mp4": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20261010061527_twitter_com_Bbzv0186_status_2108803577166848301.json"
-      ]
+      ],
+      "last_updated": "2026-10-13T20:35:37",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20261010061527/https://video.twimg.com/amplify_video/2108562273107324928/vid/avc1/720x1280/MN0HXWLqdZEtZBR0.mp4",
+      "miss_count": 1
     }
   },
   "avatars": {
@@ -5458,7 +5461,7 @@
       "last_updated": "2026-10-12T22:27:41"
     },
     "20261010061527_twitter_com_Bbzv0186_status_2108803577166848301.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -5469,7 +5472,7 @@
           "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-13T20:35:20"
+      "last_updated": "2026-10-13T20:35:37"
     }
   }
 }
