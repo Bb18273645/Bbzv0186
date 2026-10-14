@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2109447610172166385",
+    "created_at": "2026-10-12T00:54:36.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T01:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109447610172166385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845674780416208897",
+          "start": 3,
+          "username": "LLYmgxml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109447610172166385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109207912422006848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LLYmgxml: 不少药娘不择手段的想各种办法把下面切除掉，甚至不考虑是否安全；而面部、发型、身材等等一些非常关键的方面却都通通抛之脑后，难道是抱着只要切掉就万事大吉、这样就能被大家当作女生的想法吗？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2109447610172166385",
+        "created_at": "2026-10-12T00:54:36.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T01:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109447610172166385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845674780416208897",
+              "start": 3,
+              "username": "LLYmgxml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109447610172166385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109207912422006848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LLYmgxml: 不少药娘不择手段的想各种办法把下面切除掉，甚至不考虑是否安全；而面部、发型、身材等等一些非常关键的方面却都通通抛之脑后，难道是抱着只要切掉就万事大吉、这样就能被大家当作女生的想法吗？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2109207912422006848",
+        "created_at": "2026-10-11T09:02:08.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T09:47:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109204140387926402",
+          "2109207912422006848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109207912422006848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不少药娘不择手段的想各种办法把下面切除掉，甚至不考虑是否安全；而面部、发型、身材等等一些非常关键的方面却都通通抛之脑后，难道是抱着只要切掉就万事大吉、这样就能被大家当作女生的想法吗？\n最终下体被毁，材料也破坏了，修复费用接踵而至，学业也出现问题，家庭也可能随之破裂，本来就是困难模式，自己还给自己又开了地狱模式\n泰国的手术难道一辈子都消费不起吗？这样真的是你想要的生活吗，这难道就是你追求的人生吗？太搞笑了\n恕我直言这哪里像女生，怕不是有阉割癖吧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11475,
+          "like_count": 88,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不少药娘不择手段的想各种办法把下面切除掉，甚至不考虑是否安全；而面部、发型、身材等等一些非常关键的方面却都通通抛之脑后，难道是抱着只要切掉就万事大吉、这样就能被大家当作女生的想法吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109447610172166385",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 561,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "已去勢MTF🏳️‍⚧️｜自宅警備員〜にゃー｜抑郁，喜歡看番，柚子厨｜回关建议私讯 よろしくお願いします🐾\ncrush:@GanYuluo @ganyuluo2\n好朋友：@jyz86663912 @jinshu_0822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "GanYuluo"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "ganyuluo2"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "jyz86663912"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "jinshu_0822"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "海鸥学园",
+        "most_recent_tweet_id": "2109331138129080753",
+        "name": "芒果西米露🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1791285664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107404151697391616/mqEhcO6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5983,
+          "following_count": 1142,
+          "like_count": 5114,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "LLYmgxml",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
