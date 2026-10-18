@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-17T17:49:47",
+  "last_updated": "2026-10-18T17:58:55",
   "html": {
     "https://web.archive.org/web/20260529030006if_/https://twitter.com/Bbzv0186/status/2060194443471495197": {
       "status": "done",
@@ -819,6 +819,10 @@
     "https://web.archive.org/web/20261012005436if_/https://twitter.com/Bbzv0186/status/2109447610172166385": {
       "status": "done",
       "last_updated": "2026-10-14T19:15:43"
+    },
+    "https://web.archive.org/web/20261012120212if_/https://twitter.com/Bbzv0186/status/2109615617074700295": {
+      "status": "done",
+      "last_updated": "2026-10-18T17:58:55"
     }
   },
   "images": {
@@ -1963,7 +1967,8 @@
         "20261007140807_twitter_com_Bbzv0186_status_2107835364492857774.json",
         "20261009035224_twitter_com_Bbzv0186_status_2108405189967577271.json",
         "20261010061527_twitter_com_Bbzv0186_status_2108803577166848301.json",
-        "20261012005436_twitter_com_Bbzv0186_status_2109447610172166385.json"
+        "20261012005436_twitter_com_Bbzv0186_status_2109447610172166385.json",
+        "20261012120212_twitter_com_Bbzv0186_status_2109615617074700295.json"
       ],
       "last_updated": "2026-07-29T08:33:33"
     },
@@ -2804,7 +2809,8 @@
         "20260930110824_twitter_com_Bbzv0186_status_2105253422677327954.json",
         "20261002133100_twitter_com_Bbzv0186_status_2106014087373271537.json",
         "20261006115007_twitter_com_Bbzv0186_status_2107438249853759744.json",
-        "20261009035224_twitter_com_Bbzv0186_status_2108405189967577271.json"
+        "20261009035224_twitter_com_Bbzv0186_status_2108405189967577271.json",
+        "20261012120212_twitter_com_Bbzv0186_status_2109615617074700295.json"
       ],
       "last_updated": "2026-10-02T19:52:05"
     },
@@ -5497,6 +5503,18 @@
         ]
       },
       "last_updated": "2026-10-14T19:16:12"
+    },
+    "20261012120212_twitter_com_Bbzv0186_status_2109615617074700295.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+          "https://pbs.twimg.com/profile_images/2105157646592671744/fH-jJV3m_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-10-18T17:58:55"
     }
   }
 }
