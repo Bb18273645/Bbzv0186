@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2110224880113459217",
+    "created_at": "2026-10-15T06:06:06.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T07:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110613163691630915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2086703565448564736",
+          "start": 0,
+          "username": "You_Takashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110613163691630915",
+    "in_reply_to_user_id": "2086703565448564736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110224880113459217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@You_Takashi 我认识一个云南少数民族的跨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2110224880113459217",
+        "created_at": "2026-10-15T06:06:06.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T07:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110613163691630915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086703565448564736",
+              "start": 0,
+              "username": "You_Takashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110613163691630915",
+        "in_reply_to_user_id": "2086703565448564736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110224880113459217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@You_Takashi 我认识一个云南少数民族的跨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086703565448564736",
+        "conversation_id": "2110224880113459217",
+        "created_at": "2026-10-14T04:23:12.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T05:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110224880113459217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110224880113459217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 187466,
+          "like_count": 294,
+          "quote_count": 8,
+          "reply_count": 136,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到了一个问题，平常在现实中互联网上接触到的中国跨性别几乎都是汉族，为什么几乎看不到维吾尔族藏族或者其他少数民族跨性别呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110613163691630915",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 562,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T06:39:06.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜19岁 190cm 85kg｜she/they｜泛性恋｜就读于云南民族大学｜二次HRT 26.10.13｜小证5张大证1张｜双相停药｜逃出过精神病院｜想切蛋｜想去北海道｜护照被晶哥扣押中😡\nTEL:+86 16608775256\nEMALL:3107410449@qq.com",
+        "id": "2086703565448564736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110610871584186752",
+        "name": "杨崇志 You Takashi🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086703565448564736/1790478315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086704024263471104/N-YZsC4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 35,
+          "like_count": 925,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "You_Takashi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
