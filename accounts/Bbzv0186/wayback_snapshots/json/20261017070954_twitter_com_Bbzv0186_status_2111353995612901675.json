@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2111298137918992812",
+    "created_at": "2026-10-17T07:09:54.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-17T08:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111353995612901675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "iCosint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111353995612901675",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111298137918992812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iCosint 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2111298137918992812",
+        "created_at": "2026-10-17T07:09:54.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T08:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111353995612901675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "iCosint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111353995612901675",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111298137918992812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iCosint 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "conversation_id": "2111298137918992812",
+        "created_at": "2026-10-17T03:27:56.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T04:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111298137918992812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2111298137918992812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1344,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo 抽奖喵😉 10 月 28 日下午一点开奖\n一等奖：赛博朋克 2077 标准版 Steam 可折现成 80r\n二等奖：国誉中川贵雄装订本四色 B5 混装  可折现成 30r\n三等奖： 蔚蓝档案 Serenade Promenade 主题镭射票 可折现成 10r\n\n评论区评论+点赞参与😃\n学生党钱包较薄 见谅🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111353995612901675",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 559,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "🎂 08/06\n🎮 GTAV Minecraft RFS \n💻 OIer(已退役)\n🗺️ 浙江 Native\n私信回 fo\nhttps://t.co/02QKEqY7ki\n生活号 @Triple_Catvur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Triple_Catvur"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Arthur_Qiu",
+                "end": 85,
+                "expanded_url": "http://t.me/Arthur_Qiu",
+                "start": 62,
+                "url": "https://t.co/02QKEqY7ki"
+              }
+            ]
+          }
+        },
+        "id": "1790006276162048000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111349440036626784",
+        "name": "氯化铵",
+        "pinned_tweet_id": "2111298137918992812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790006276162048000/1786600030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088471262914064384/-Hi973kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 778,
+          "like_count": 36621,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 8223
+        },
+        "url": "",
+        "username": "iCosint",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
