@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-26T20:24:54",
+  "last_updated": "2026-10-27T19:59:40",
   "html": {
     "https://web.archive.org/web/20260529030006if_/https://twitter.com/Bbzv0186/status/2060194443471495197": {
       "status": "done",
@@ -839,6 +839,10 @@
     "https://web.archive.org/web/20261017070954if_/https://twitter.com/Bbzv0186/status/2111353995612901675": {
       "status": "done",
       "last_updated": "2026-10-23T19:02:15"
+    },
+    "https://web.archive.org/web/20261022080126if_/https://twitter.com/Bbzv0186/status/2113178903875568083": {
+      "status": "done",
+      "last_updated": "2026-10-27T19:59:39"
     }
   },
   "images": {
@@ -1995,7 +1999,8 @@
         "20261014084511_twitter_com_Bbzv0186_status_2110290810017391009.json",
         "20261015060606_twitter_com_Bbzv0186_status_2110613163691630915.json",
         "20261015124138_twitter_com_Bbzv0186_status_2110712706303156648.json",
-        "20261017070954_twitter_com_Bbzv0186_status_2111353995612901675.json"
+        "20261017070954_twitter_com_Bbzv0186_status_2111353995612901675.json",
+        "20261022080126_twitter_com_Bbzv0186_status_2113178903875568083.json"
       ],
       "last_updated": "2026-07-29T08:33:33"
     },
@@ -2909,7 +2914,8 @@
     "https://pbs.twimg.com/profile_images/2109279990101729281/nuMUDyeN_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20261015124138_twitter_com_Bbzv0186_status_2110712706303156648.json"
+        "20261015124138_twitter_com_Bbzv0186_status_2110712706303156648.json",
+        "20261022080126_twitter_com_Bbzv0186_status_2113178903875568083.json"
       ],
       "last_updated": "2026-10-20T19:08:14"
     },
@@ -5614,6 +5620,18 @@
         ]
       },
       "last_updated": "2026-10-23T19:02:47"
+    },
+    "20261022080126_twitter_com_Bbzv0186_status_2113178903875568083.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+          "https://pbs.twimg.com/profile_images/2109279990101729281/nuMUDyeN_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-10-27T19:59:40"
     }
   }
 }
