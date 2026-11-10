@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2115408555805401469",
+    "created_at": "2026-10-28T13:40:53.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-28T14:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2115438656442036668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "k1uchanQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2115438656442036668",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2115408555805401469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@k1uchanQ 拼了喵~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2115408552860975104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVtw3vQaAAAjV68.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2115408555805401469",
+        "created_at": "2026-10-28T13:40:53.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-28T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2115438656442036668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "k1uchanQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2115438656442036668",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115408555805401469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@k1uchanQ 拼了喵~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2115408552860975104"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2115408555805401469",
+        "created_at": "2026-10-28T11:41:16.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-28T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2115408555805401469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3PSY2Ao6t",
+              "end": 33,
+              "expanded_url": "https://x.com/k1uchanQ/status/2115408555805401469/photo/1",
+              "media_key": "3_2115408552860975104",
+              "start": 10,
+              "url": "https://t.co/m3PSY2Ao6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2115408555805401469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2115408552860975104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 764,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "和你们天赋党拼了👿 https://t.co/m3PSY2Ao6t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美\n恋人：@shshu15528",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "shshu15528"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2115438656442036668",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059886531322515459/HqUlYxp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 571,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽Kiu-chan💫/🩵🩷🤍🩷🩵/HRT 261017/生活日常/废话内容/技术分享/原创文案/负面情绪/杂鱼秋月 @qiuylove/可爱eliya @zhweaa/请与我互动！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "qiuylove"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "zhweaa"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "天津 Tientsin / 厦门 / 苏州",
+        "most_recent_tweet_id": "2115431379223859412",
+        "name": "🍥きうちゃん🍰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1791855100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109793177343610880/5s6kyuE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8960,
+          "following_count": 1342,
+          "like_count": 234174,
+          "listed_count": 7,
+          "media_count": 1487,
+          "tweet_count": 10661
+        },
+        "url": "",
+        "username": "k1uchanQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
