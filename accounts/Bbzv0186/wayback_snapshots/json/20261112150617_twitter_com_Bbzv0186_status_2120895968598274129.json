@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1945767299912511488",
+    "conversation_id": "2120895968598274129",
+    "created_at": "2026-11-12T15:06:17.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-11-12T16:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2120895968598274129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2120882655797666148",
+          "start": 6,
+          "url": "https://t.co/gWap92NhLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2120895968598274129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2120882655797666148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有好戏看了 https://t.co/gWap92NhLL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2120881679711576064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW7ippnXoAAGdx2.jpg",
+        "width": 427
+      },
+      {
+        "height": 810,
+        "media_key": "3_2120882593071513600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW7je0JWQAA3UEJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2120882632275709952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW7jhGMW0AAiQbM.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945767299912511488",
+        "conversation_id": "2120895968598274129",
+        "created_at": "2026-11-12T15:06:17.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-12T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2120895968598274129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2120882655797666148",
+              "start": 6,
+              "url": "https://t.co/gWap92NhLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2120895968598274129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120882655797666148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有好戏看了 https://t.co/gWap92NhLL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2120881679711576064",
+            "3_2120882593071513600",
+            "3_2120882632275709952"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2120882655797666148",
+        "created_at": "2026-11-12T14:13:23.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-12T15:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2120882655797666148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwzA4roSs3",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2120882655797666148/photo/1",
+              "media_key": "3_2120881679711576064",
+              "start": 86,
+              "url": "https://t.co/fwzA4roSs3"
+            },
+            {
+              "display_url": "pic.x.com/fwzA4roSs3",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2120882655797666148/photo/1",
+              "media_key": "3_2120882593071513600",
+              "start": 86,
+              "url": "https://t.co/fwzA4roSs3"
+            },
+            {
+              "display_url": "pic.x.com/fwzA4roSs3",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2120882655797666148/photo/1",
+              "media_key": "3_2120882632275709952",
+              "start": 86,
+              "url": "https://t.co/fwzA4roSs3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2120882655797666148",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2120881679711576064"
+          },
+          {
+            "media_key": "3_2120882593071513600"
+          },
+          {
+            "media_key": "3_2120882632275709952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 119003,
+          "like_count": 794,
+          "quote_count": 10,
+          "reply_count": 105,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "黄仁勋辞职\n\n当地时间11月12日，英伟达公司宣布：黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。科莱特·克雷斯（Colette Kress）担任临时首席执行官。 https://t.co/fwzA4roSs3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T08:47:57.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美\n恋人：@shshu15528",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "shshu15528"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbzv.de5.net",
+                "end": 23,
+                "expanded_url": "https://bbzv.de5.net/",
+                "start": 0,
+                "url": "https://t.co/npjYNFy2d0"
+              }
+            ]
+          }
+        },
+        "id": "1945767299912511488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2120895968598274129",
+        "name": "柠夏 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945767299912511488/1785330495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119763005525413888/HrCzxDnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 580,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/npjYNFy2d0",
+        "username": "Bbzv0186",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2120894398669996100",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2118923070316687423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284646,
+          "following_count": 1083,
+          "like_count": 10750,
+          "listed_count": 8972,
+          "media_count": 56811,
+          "tweet_count": 64244
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
